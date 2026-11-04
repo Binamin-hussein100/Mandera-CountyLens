@@ -1,0 +1,553 @@
+file,size_kb,pages,doc_type,year,year_from,duplicate_of,same_name_as,scanned,encrypted,broken,error,sha256
+"2007-06-30 Mandera District- Drought Monthly Bulletin, June 2007.pdf",118,10,drought_bulletin,2007,filename,,,False,False,False,,7b80a1694106cc39b87ae6ab7911e1a6fbbe9ff1bb2af625ad9333603c8907d1
+2013 Mandera County Short Rains Assessment.pdf,610,17,drought_bulletin,2013,filename,,,False,False,False,,397db8c642d0abc091a1ed7c7b50a005a1191a1426a63d96747b2c9c667e100d
+2013-07 Mandera drought early warning bulletin.pdf,418,12,drought_bulletin,2013,filename,,,False,False,False,,1989568d4569448c147672cfab810d4303f8db5b5399216ac13f726b3e2fa172
+2013-08 Mandera drought early warning bulletin.pdf,412,11,drought_bulletin,2013,filename,,,False,False,False,,1bb1f24c8d23dfc6e6c903b9cc285320dbbd2d43648c41a851c6514e80a30172
+2013-09 Mandera drought early warning bulletin.pdf,411,12,drought_bulletin,2013,filename,,,False,False,False,,82b0702209d23b4bd39799f67e9bb3e2b9e74e149905629007df91c946a21b91
+2014 Mandera County Short Rains Assessment.pdf,676,15,drought_bulletin,2014,filename,,,False,False,False,,b2af066b6242732a9550c8afeb84fb3ee3029b31be21dc0a20ac3466b2a7e317
+2014-02 Mandera drought early warning bulletin.pdf,507,11,drought_bulletin,2014,filename,,,False,False,False,,c8ea7040e7491724d9f61140da6caf3ca5fe28bda30426362f4adb07ac8eef16
+2014-03 Mandera drought early warning bulletin.pdf,512,10,drought_bulletin,2014,filename,,,False,False,False,,8a015f55f7375ee6f3de64b0d6cff40d93019f50745edcc32f7839faa0535633
+2014-04 Mandera drought early warning bulletin.pdf,444,11,drought_bulletin,2014,filename,,,False,False,False,,f535c7653604861cd468ace4fed194e4e582add3844a1498b82272ad3bc8e269
+2014-05 Mandera drought early warning bulletin.pdf,462,10,drought_bulletin,2014,filename,,,False,False,False,,498d6e625eeb6b508936811271f3c9f4dbb936674f6f7ebfb1fddeacb0398d1b
+2014-06 Mandera drought early warning bulletin.pdf,513,11,drought_bulletin,2014,filename,,,False,False,False,,fa897d968577320eeb50ca8b77c365ff9b12360d010dd9a619309cc60598ee3f
+2014-06-06 Wajir-Mandera Border Conflict Emergency Response Situation Report 5.pdf,434,2,humanitarian,2014,filename,,,False,False,False,,d03132dfee240575fa16686d1f892c503f39563b3dfc1bfc4e347c2ddb22a98a
+2014-06-09 Wajir-Mandera Border Conflict Emergency Response Situation Report 7.pdf,59,2,humanitarian,2014,filename,,,False,False,False,,4ffa8602eb7ad80e06cdabe516a2cec8839d3d50977e01acc61375b0fde5a27b
+"2014-06-10 Kenya- Civil Unrest - Mandera and Wajir Emergency Plan of Action (EPoA), DREF Operation n° MDRKE028.pdf",1037,14,humanitarian,2014,filename,,,False,False,False,,3695b609e02519171debadb3bd518c10052946c49447cbf1cdbe11af8f6295eb
+2014-06-12 Wajir-Mandera Border Conflict Emergency Response Situation Report 11.pdf,237,2,humanitarian,2014,filename,,,False,False,False,,901e6d64cda83eb31b5c01720c0f031e433e518515f7e7a855b41f4c8c28c379
+2014-06-12 Wajir-Mandera Border Conflict Emergency Response Situation Report 8.pdf,141,2,humanitarian,2014,filename,,,False,False,False,,48e0f95828f00405b9e802a15d1a5c1b680e3796ff4e1915da344549fe4bd630
+2014-06-14 Wajir – Mandera Conflict Humanitarian Emergency Response Daily Situation Report 14.pdf,244,2,humanitarian,2014,filename,,,False,False,False,,e56f5879dc3e4722880a918987fe97080d207c2c9f1f069572ff9ec55f1e4a7b
+2014-06-17 Wajir – Mandera Conflict Humanitarian Emergency Response Daily Situation Report 15.pdf,254,2,humanitarian,2014,filename,,,False,False,False,,2ba550200f684335b43b1e80f4a15a7bb7ba5f196675a793cda00f9cf243b54d
+2014-06-19 Wajir – Mandera Conflict Humanitarian Emergency Response Daily Situation Report 18.pdf,317,2,humanitarian,2014,filename,,,False,False,False,,ada8116312040737652bd08d035ec22b601d17338b510644cd8cc41cd4fff672
+2014-06-23 Kenya- Inter-Communal Conflict in Wajir and Mandera Counties Update (as of 23 June 2014).pdf,1213,1,humanitarian,2014,filename,,,False,False,False,,213773fe753e3a96312a584c747ab1fb282cd0a0cafc13678b2cbc50280bc511
+2014-06-23 Wajir – Mandera Conflict Humanitarian Emergency Response Daily Situation Report 19.pdf,98,2,humanitarian,2014,filename,,,False,False,False,,60a609aca36cc09e04102002421aa5eeb75991232ca29dae85f368b151a4e63f
+2014-07 Mandera drought early warning bulletin.pdf,530,11,drought_bulletin,2014,filename,,,False,False,False,,08233d39f711d2da8fe8650c4b4949c1ae781d90bba2a6fa9faeb498dd4113dc
+2014-07-04 Kenya Inter Agency Rapid Assessment- Mandera County Conflict Assessment Report 19th - 30th June 2014.pdf,3743,16,humanitarian,2014,filename,,,False,False,False,,98c50a70274fbd21cedf9589aba4b54c2875c46dc303d15184b67f22cb43ad05
+2014-08 Mandera drought early warning bulletin.pdf,713,11,drought_bulletin,2014,filename,,,False,False,False,,081691eab1f18517e0296f0f644e275c41fd84e53ff9d2afa94bd787b40b7dd8
+"2014-08-26 Kenya Red Cross E-Plus Ambulance Attacked in Rhamu, Mandera.pdf",465,2,humanitarian,2014,filename,,,True,False,False,,ab6a5b3a4fc98fc8e228faf4cd9c03c27da908cbf16d17d1e790d9f04c919342
+2014-09 Mandera drought early warning bulletin.pdf,686,11,drought_bulletin,2014,filename,,,False,False,False,,4bb8030803c8c66a26f89cfb1650f34667940b0bf410e482624eb9bd2197f0d6
+2014-09-05 Mandera Attacks Situation Report (SITREP 02) on 5th September 2014.pdf,70,3,humanitarian,2014,filename,,,False,False,False,,97aefdacf74df56dcfd31ee554adb6c299d35fcd7a9092e92655add57c604c0e
+2014-10 Mandera drought early warning bulletin.pdf,518,13,drought_bulletin,2014,filename,,,False,False,False,,b2b904070815db1053dbd4dcc640e60f31defe10665977717e83004823cd6baa
+2014-11 Mandera drought early warning bulletin.pdf,739,11,drought_bulletin,2014,filename,,,False,False,False,,e197debea9c55f961ecda66cca7a80fa5f9efc7b17cfc56f1998a180c16461e5
+2014-12 Mandera drought early warning bulletin.pdf,720,11,drought_bulletin,2014,filename,,,False,False,False,,a58b45f39c3a14b1775458445177771bc6cf1f713dd077d16d952527439af3ae
+2014-12-03 Kenya - Mandera Bus Attack - Emergency Plan of Action (EPoA) n° MDRKE032.pdf,783,9,humanitarian,2014,filename,,,False,False,False,,dc1bb07a918f50ff017a84b2a0caf0eddc8856a309a318e8d36ca7cb0541caa5
+2014-12-09 Mandera County- Drought Early Warning Bulletin for November 2014.pdf,706,11,drought_bulletin,2014,filename,,,False,False,False,,acabe5e7ee4c17e2afe98ef17d3459aab8749f137a6bd89fb1a380b3aa723fd8
+"2014-12-30 Kenya- Civil Unrest - Wajir and Mandera, DREF Operation n° MDRKE028 Final report.pdf",431,13,humanitarian,2014,filename,,,False,False,False,,b5b03febb038ea8c5d3504ab966a15a8bf803df5742448422f4b6a45d6ff2db4
+2015 Mandera County Long Rains Assessment.pdf,654,18,drought_bulletin,2015,filename,,,False,False,False,,244a01b7299e60781d09abbc1777d7f6c0473b68372a39990924b351cec8222c
+2015 Mandera County Short Rains Assessment.pdf,834,28,drought_bulletin,2015,filename,,,False,False,False,,96cf3cc9365e3b5dcf27803095046fcb1adb2f9608b8f9dca8d51bfaec2ce588
+2015-01 Mandera drought early warning bulletin.pdf,592,11,drought_bulletin,2015,filename,,,False,False,False,,1d10c45c4169e2dae08a134637c3db4ef3702f326486a1ae8094c228f2bf9cbd
+2015-02 Mandera drought early warning bulletin.pdf,760,12,drought_bulletin,2015,filename,,,False,False,False,,98099c04301fa77174a85d7da88ca6548088be73269c35dc80d9726ccb2f0ca3
+2015-03 Mandera drought early warning bulletin.pdf,751,12,drought_bulletin,2015,filename,,,False,False,False,,8c03e7d42cf89d7de2791abacec093d20b75fae9020f03d0dfbb8f7c4b08aa95
+2015-03-11 Kenya - Mandera Bus Attack - Emergency Plan of Action (EPoA) n° MDRKE032 Operations Update 1.pdf,242,7,humanitarian,2015,filename,,,False,False,False,,160cd01de1857aa567e7d29f6c62db7044d10d61a385825a891452bf68da84de
+2015-04 Mandera drought early warning bulletin.pdf,723,9,drought_bulletin,2015,filename,,,False,False,False,,0acd7c1cb89271ac4c8f2876cba161446d9450270c483e0d0fd42821b4ed8df2
+2015-05 Mandera drought early warning bulletin.pdf,810,10,drought_bulletin,2015,filename,,,False,False,False,,8617d2b150130dd0bb55f63e95001bc5d69e2af4f33fb38dd805e11ecdd574bb
+2015-05-20 Mandera County- Drought Early Warning Bulletin for April 2015.pdf,712,9,drought_bulletin,2015,filename,,,False,False,False,,114c295c0677b7e0d300716e7c995b6d50e26aaffd3ebbcf06c7c6cade6fee34
+2015-06 Mandera drought early warning bulletin.pdf,794,10,drought_bulletin,2015,filename,,,False,False,False,,8281c3b5a60820f5331cf199350685363cb1b3340c1d13926cee1bd7a4b28545
+2015-06-30 Kenya- Mandera Bus Attack - DREF Final Report (MDRKE032).pdf,794,14,humanitarian,2015,filename,,,False,False,False,,c6816517bc7e282ff8223df0f249d0f527a3b07be37de909f2f5792a54f85537
+2015-07 Mandera drought early warning bulletin.pdf,926,11,drought_bulletin,2015,filename,,,False,False,False,,8dd9d4b656acc558b525f5eb138096e89d56402d7d5389a7782c6bcb57dd198e
+2015-08 Mandera drought early warning bulletin.pdf,818,10,drought_bulletin,2015,filename,,,False,False,False,,1921561e1709d71f726cc35b650802cc00f1dd5636bffaf1196b807cf6521948
+2015-09 Mandera drought early warning bulletin.pdf,827,10,drought_bulletin,2015,filename,,,False,False,False,,a03caad499e08c9ae629386e5b63b08066bfacad3743ba8deaf01681c4a92a3a
+"2015-09-17 Transforming Mandera West Communities one small step at a time- Action at the Frontline, Mandera, Kenya.pdf",657,5,humanitarian,2015,filename,,,False,False,False,,2401efd673f1b68e55e9bbbef24299efb5a3ce1690b863307c2d18b4ce4755e6
+2015-10 Mandera drought early warning bulletin.pdf,825,10,drought_bulletin,2015,filename,,,False,False,False,,5df1fb5e8b81376348a17223ac9476d8650fd7a9e2dea7e967ebfd3089d81933
+"2015-10-15 Kenya Inter-Agency Rapid Assessment (KIRA)- Mandera County IDPs’ Situation Report, 19th - 23rd September 2015.pdf",1240,22,humanitarian,2015,filename,,,False,False,False,,a43460621acae0b853365b30a18a30e28c6abd104582f855be2b30a79fa18b49
+2015-11 Mandera drought early warning bulletin.pdf,708,9,drought_bulletin,2015,filename,,,False,False,False,,5960546fb714b475689fb2facbad1a025217eb97fc3f6b941c56bac44d464b08
+2015-12 Mandera drought early warning bulletin.pdf,619,12,drought_bulletin,2015,filename,,,False,False,False,,ef9c5a1b9e5b80d7fec30039119faaf53096d65275153c77342de7b067cd4108
+2016 Mandera County Long Rains Assessment.pdf,844,19,drought_bulletin,2016,filename,,,False,False,False,,e2771eb87d80f29394156795b666eae47e60b6105748406a2e015d12e57fbe83
+2016 Mandera County Short Rains Assessment.pdf,1032,22,drought_bulletin,2016,filename,,,False,False,False,,c868778975a7a1431957f4d62b9dac2fc1accc4ac189912cb18222bd499d88f0
+2016-01 Mandera drought early warning bulletin.pdf,582,11,drought_bulletin,2016,filename,,,False,False,False,,b6a82b15b7f5b198c285489b2bef6fba5c21a443194b79ba78ee8ab3aa06d058
+2016-02 Mandera drought early warning bulletin.pdf,577,12,drought_bulletin,2016,filename,,,False,False,False,,fb0992594dc8972d3bb310b146e7e5db9e187b3bed89a20f5c23ddc73c43d17a
+2016-03 Mandera drought early warning bulletin.pdf,620,11,drought_bulletin,2016,filename,,,False,False,False,,ede03dfe20b7329571b028e0bf7ef21acf54dee66f5c7c3581663a81477ba969
+2016-04 Mandera drought early warning bulletin.pdf,804,11,drought_bulletin,2016,filename,,,False,False,False,,ef8ee24abfbf7b94766906ff72eae9211ca777b9a18bf26f5026d60255b05c0e
+2016-05 Mandera drought early warning bulletin.pdf,925,14,drought_bulletin,2016,filename,,,False,False,False,,d19e0fd833d6e29e0dd14a641fe243c54fd7dbed34a86f6d5f7034272dac3549
+2016-05-31 Kenya- Mandera Cholera & Chikungunya Outbreak - Situation report 002.pdf,114,3,humanitarian,2016,filename,,,False,False,False,,acfc5f3f5c3856b7f0eb548f7e811f2fc2c3906b273a41bac8516fc4b4ef6810
+2016-06 Mandera drought early warning bulletin.pdf,942,13,drought_bulletin,2016,filename,,,False,False,False,,c09a5905579c558ce3383601c8e1fc6136a7b596d82b1ba9169909b4f70dd929
+2016-06-02 Kenya- Mandera Cholera & Chikungunya Outbreak - Situation report 003.pdf,292,5,humanitarian,2016,filename,,,False,False,False,,d6a7ce15a7f74f4d8812c7e1f893e1847dfb18dbc9cf833e466a5807051a7bd8
+2016-06-08 Kenya- Mandera Cholera & Chikungunya Outbreak - Situation report 004.pdf,338,4,humanitarian,2016,filename,,,False,False,False,,5ae30975caee671b79ab8de1d774790be1aa611ad6c3c51a29e63d0b4d05d113
+2016-06-08 Kenya- Mandera Cholera Outbreak Emergency Plan of Action (EPoA) DREF n° MDRKE038.pdf,603,15,humanitarian,2016,filename,,,False,False,False,,76d1e3c7e001f0ac0a1658844e875cc88f3f5c94dd55487c6b383ceb6fe67f2e
+2016-07 Mandera drought early warning bulletin.pdf,1067,14,drought_bulletin,2016,filename,,,False,False,False,,e18cced9876a65fc3dd15deb1fbf50074ea235c2a80bf7ed7e00c26663dd8f56
+2016-07-15 Kenya- Mandera Cholera & Chikungunya Outbreak - Situation report 005.pdf,210,4,humanitarian,2016,filename,,,False,False,False,,c7180a8683ab56a793e929db78af13377819f69995e1746529800ef6e24450ad
+2016-08 Mandera drought early warning bulletin.pdf,1074,14,drought_bulletin,2016,filename,,,False,False,False,,813c2747d51254e7b6fcb94b04124d11fe1209309581d636fa482e1cc3f36625
+2016-08-09 Kenya- Mandera Cholera Outbreak Emergency Plan of Action (EPoA) DREF n° MDRKE038 Update no. 1.pdf,476,16,humanitarian,2016,filename,,,False,False,False,,bf99043f1dad308db61e50b3a6c735a460ff8477e5ef9f27ee1aef544714f691
+2016-09 Mandera drought early warning bulletin.pdf,980,14,drought_bulletin,2016,filename,,,False,False,False,,c6eb07ace3c55f64ed2d072b61da96b39b5fe2236182d9655a7dd5224d027bc8
+"2016-09-07 ACAPS Briefing Note- Kenya - Drought in Kilifi, Mandera, Marsabit, Tana River, Turkana, and West Pokot Counties (6 September 2016).pdf",372,6,drought_bulletin,2016,filename,,,False,False,False,,bc8d3fda1b77efdaa8a7f1782e859c35b4247705cfcbdaea3a271410b6a380ff
+2016-10 Mandera drought early warning bulletin.pdf,868,12,drought_bulletin,2016,filename,,,False,False,False,,3ba1cba18867a4a1adaad609f4ebc7976e75a20720aba50c08aded0714c7f83e
+2016-11 Mandera drought early warning bulletin.pdf,981,13,drought_bulletin,2016,filename,,,False,False,False,,0c3429104672a53e346689dc77f0372487956050c02f72950093896d72bc2f3c
+2016-12 Mandera drought early warning bulletin.pdf,1026,14,drought_bulletin,2016,filename,,,False,False,False,,47d1eee2fe1229a9000c9dac28aaab659e1ee3619877a4872eccde75f830abae
+2017 Mandera County Long Rains Assessment.pdf,841,20,drought_bulletin,2017,filename,,,False,False,False,,9196dd94bf11d1e66fff803e64f828ff9a2f5c28d77ced74b0832812e911d335
+2017 Mandera County Short Rains Assessment.pdf,797,23,drought_bulletin,2017,filename,,,False,False,False,,3650f367d17150fda92e25360f5cab94f3aa995f5d8d5bb8c41cf1cb8c98e1f3
+2017-01-31 Kenya- Mandera Cholera Outbreak Emergency Plan of Action Final Report DREF n° MDRKE038.pdf,614,18,humanitarian,2017,filename,,,False,False,False,,5b305f3cf577dd4c4650a4b8323f7481a273b8d4eaf5f61bae4fde5a0d771c42
+2017-02-09 Mandera County- Drought Early Warning Bulletin for January 2017.pdf,806,14,drought_bulletin,2017,filename,,,False,False,False,,a7dbee405bc83fb7f356434640f56d381b0b347f39439e00b1ac82f512408352
+2017-03 Mandera drought early warning bulletin.pdf,895,12,drought_bulletin,2017,filename,,,False,False,False,,74e44ff8cb8efc1703e48e34377c15493dab93181f633e112a15cf4f842b7cb8
+2017-04 Mandera drought early warning bulletin.pdf,882,12,drought_bulletin,2017,filename,,,False,False,False,,7f54a52db4b31342aa194c09f65d5ef070278cf81ae7420de34142e535a55321
+2017-05 Mandera drought early warning bulletin.pdf,921,11,drought_bulletin,2017,filename,,,False,False,False,,e812307082c26ae59e093b028d79acd14bf1fe43f327e821daccf198d82c9fe6
+2017-06 Mandera drought early warning bulletin.pdf,935,11,drought_bulletin,2017,filename,,,False,False,False,,fe5b50d70c6d4f4f34bb25700eef5cd800c33ba0e0d906faa5d402439d5b2e72
+2017-07 Mandera drought early warning bulletin.pdf,864,11,drought_bulletin,2017,filename,,,False,False,False,,5f268fd46f83567ed66ee8d1c5f629ff1fa5ae4a6dbd7ede004f7de9882ce256
+2017-08 Mandera drought early warning bulletin.pdf,862,11,drought_bulletin,2017,filename,,,False,False,False,,a2b6cf9b9ab2e8e429ecad3a06a50959263d7b04559027416301dd161f17432a
+2017-09 Mandera drought early warning bulletin.pdf,860,11,drought_bulletin,2017,filename,,,False,False,False,,9688f0204a20ab446147f683ad14d12f0c67922989aa291a4ceca541d98efd37
+2017-10 Mandera drought early warning bulletin.pdf,1262,15,drought_bulletin,2017,filename,,,False,False,False,,fec2280964398e2798c379b5c54f976e4cd1a79e64bbff3bf4ae34f6bb097345
+2017-11 Mandera drought early warning bulletin.pdf,969,14,drought_bulletin,2017,filename,,,False,False,False,,bbe48ab7b87c4ccd1c101d8ab6f59f0812279982ad4a46c84d3b560f1f579b45
+2017-12 Mandera drought early warning bulletin.pdf,983,15,drought_bulletin,2017,filename,,,False,False,False,,bbded5aee432dd5fb426dec978e18433bb5bc6255d8b49df8b575b5473cbb7da
+2018 Mandera County Long Rains Assessment.pdf,1004,30,drought_bulletin,2018,filename,,,False,False,False,,3a3df93a2dd991a799ebb2082316b514c7cda9fcc2c33d47674d8fc247896e9f
+2018 Mandera County Short Rains Assessment.pdf,1344,28,drought_bulletin,2018,filename,,,False,False,False,,557918ae541f1aa381cddcacd8c88cdbdb3ab9ebb739cc278c415f359ce5bed8
+2018-01 Mandera drought early warning bulletin.pdf,1103,14,drought_bulletin,2018,filename,,,False,False,False,,e1db5f1a48ba8f5ff3f19b0d800131b0c863db5d8c9313b167be6bdc5c108f6a
+2018-02 Mandera drought early warning bulletin.pdf,1031,14,drought_bulletin,2018,filename,,,False,False,False,,30db41ccf98dc180b47b93418b36f7b5e11257aa8c83ef4c05e2e65ea1439570
+2018-03 Mandera drought early warning bulletin.pdf,1071,13,drought_bulletin,2018,filename,,,False,False,False,,418fb9b26c444888052aa67457c7f2b68dffd71d4b4043c8b26ce36fcaeee0fb
+2018-04 Mandera drought early warning bulletin.pdf,1048,13,drought_bulletin,2018,filename,,,False,False,False,,76129a74e358f988e4c7bd74b1b5e7671c729eb916b5c6aa79cd4da90ef260e2
+2018-05 Mandera drought early warning bulletin.pdf,1002,16,drought_bulletin,2018,filename,,,False,False,False,,3749332031913ada091ebe35369e6156d77f77d65092bcb1a1db5f49b89e698d
+2018-06 Mandera drought early warning bulletin.pdf,1225,13,drought_bulletin,2018,filename,,,False,False,False,,550eeb25bb6f682616be079661792809ce8735269552bf663c6f521181ae2406
+2018-07 Mandera drought early warning bulletin.pdf,1196,13,drought_bulletin,2018,filename,,,False,False,False,,9808906f3f1e65a548746067af75c92d2a57aaf56e932df6971e98054e017c1b
+2018-08 Mandera drought early warning bulletin.pdf,1056,15,drought_bulletin,2018,filename,,,False,False,False,,e5d78cd3cbbbd6849c6a706d5d1e200ecc62b325efe58da58ab80050f120eedd
+2018-08-02 Mandera County- Drought Early Warning Bulletin for June 2018.pdf,1051,15,drought_bulletin,2018,filename,,,False,False,False,,912d8d719e9405fcae3a4ee68a8d20b774bf58db0e0246ba3eb99f415a9a9cda
+2018-08-08 Kenya County Climate Risk Profile Series- Climate Risk Profile - Mandera County.pdf,8969,24,research,2018,filename,,,False,False,False,,4841ec276f530eff5ad66029e82633fffd05c5ab89a3ad38e0bee5447e1e03f7
+2018-09 Mandera drought early warning bulletin.pdf,1219,14,drought_bulletin,2018,filename,,,False,False,False,,da28c53e4920f6bc989a577404847370df711cc65e9c1c6de1075530f03dcbb0
+2018-09-07 Mandera County- Drought Early Warning Bulletin for July 2018.pdf,1141,14,drought_bulletin,2018,filename,,,False,False,False,,2df054aab3801cd93c2e71b62ad6edbd357fac7cfe153dfe1cef44fed84905b9
+"2018-09-28 Éthiopie, Kenya, Somalie - Points forts du projet « Protection des ressources de l’élevage et des moyens de subsistance dans les zones tran.pdf",531,1,humanitarian,2018,filename,,,False,False,False,,f74713641709daa959b289586062f31ed0a3b9c083829035c4558350af078496
+2018-10 Mandera drought early warning bulletin.pdf,1148,15,drought_bulletin,2018,filename,,,False,False,False,,93feb8ac593c2ce99467534fe56946de27eeaad73bbba55f8571f74f92827733
+2018-10-04 Mandera County- Drought Early Warning Bulletin for August 2018.pdf,1233,14,drought_bulletin,2018,filename,,,False,False,False,,f286533c049f867412c1cd34bcae9fca21cba767aecf6b901c4d472a8618993a
+2018-10-26 Mandera County- Drought Early Warning Bulletin for September 2018.pdf,1222,15,drought_bulletin,2018,filename,,,False,False,False,,85e5d589b981698a27879673ce16b74e5cf77a9c59ce22bf62dfec99624b7537
+2018-11 Mandera drought early warning bulletin.pdf,940,14,drought_bulletin,2018,filename,,,False,False,False,,698bb59b4365f66cb0f02524b29a8f90a18da8ece41090c26877fdf984c7431e
+2018-12 Mandera drought early warning bulletin.pdf,975,14,drought_bulletin,2018,filename,,,False,False,False,,70756a9beb65ab2fa2b493320aab2b7dcfb703b0e8faf7336e040477f5245fd9
+"2018-12-07 Kenya- Cash Programming Fact Sheet - Targeted Counties- Garissa, Mandera, Samburu, Tana River, Wajir, Isiolo and Turkana, August 2018.pdf",792,2,humanitarian,2018,filename,,,False,False,False,,e9e8e2ff55ef9dad45ab52bc4c9ad5ee229e2ff47baebf1074afd0fdce35655e
+2019 Mandera County Long Rains Assessment.pdf,836,29,drought_bulletin,2019,filename,,,False,False,False,,923afe02bb725ca87ff9ca842fe7fbe109c9d62bacbeedb58cdcf3002dff7eda
+2019 Mandera County Short Rains Assessment.pdf,1446,34,drought_bulletin,2019,filename,,,False,False,False,,f518208a64b02ac924fe75501450b1770a92a7a84617c892e4eb193550dfaf97
+2019-01 Mandera drought early warning bulletin.pdf,1121,15,drought_bulletin,2019,filename,,,False,False,False,,841ec03353ee4d8569aa901d828311cfce526b55029067d51b3104dd9250f532
+2019-02 Mandera drought early warning bulletin.pdf,1207,19,drought_bulletin,2019,filename,,,False,False,False,,40190a04e01249da36118f990c9621b71ce3e3ce245050badd3af86ae3eb6ccf
+2019-03 Mandera drought early warning bulletin.pdf,1160,20,drought_bulletin,2019,filename,,,False,False,False,,9d6e805f1707610f8b732fe2159b7396b78565f3714ebb0545a08f3999b2436a
+2019-04 Mandera drought early warning bulletin.pdf,1124,16,drought_bulletin,2019,filename,,,False,False,False,,d2b779edca43e7cc636fa0dea54a267259e4ea64acdfe1aab1bf28ae9c99acf1
+2019-05 Mandera drought early warning bulletin.pdf,946,16,drought_bulletin,2019,filename,,,False,False,False,,1248290bdc05161e103fa416e47aa1e97410a84a5a3da20462d8041bbcd8bda8
+2019-06 Mandera drought early warning bulletin.pdf,1047,17,drought_bulletin,2019,filename,,,False,False,False,,fffaf3ddace11fdf01ee298315aa7814b1c271f10e05429d22b06cd8870e1dc9
+"2019-06-11 Drought Needs Assessment Baringo, Samburu and Mandera - May 2019.pdf",1019,6,drought_bulletin,2019,filename,,,False,False,False,,41a7c6cdb9ed8c623570d091e80169d081225ce975c9d8a62f7dab320a3daaf9
+2019-07 Mandera drought early warning bulletin.pdf,936,16,drought_bulletin,2019,filename,,,False,False,False,,31ef6139e809a9be622cc7dc53a2825bdebe15d8eed989d12ac0b8f009868b10
+2019-08 Mandera drought early warning bulletin.pdf,698,16,drought_bulletin,2019,filename,,,False,False,False,,678dd28bc3a8766af4661a814a44f76accbef896aab0d75bd93635fd8948b6dc
+2019-09 Mandera drought early warning bulletin.pdf,1136,16,drought_bulletin,2019,filename,,,False,False,False,,16363b8423ab4643c08322b1bf82fbcf2a7ba12435b71d917632479a21d6cae5
+2019-10 Mandera drought early warning bulletin.pdf,1010,12,drought_bulletin,2019,filename,,,False,False,False,,4a2ad93670f4621ab6e9933a2fe9a4fa901d4610540c38cf87b1139a33e4fdda
+2019-11 Mandera drought early warning bulletin.pdf,634,12,drought_bulletin,2019,filename,,,False,False,False,,22b152b3c001fc0c4850c08e1507046be965098bcc94131f7a04ce95694d585d
+"2019-11-04 Kenya Floods Situational Update- Tana River, Marsabit & Mandera Counties (October 31, 2019).pdf",1568,7,humanitarian,2019,filename,,,False,False,False,,275e30e002cad4a434e7fb382312d584e1034fffa075325b935576316a3bfedc
+2019-12 Mandera drought early warning bulletin.pdf,1034,13,drought_bulletin,2019,filename,,,False,False,False,,935eb8a48401095ca4ac16e69337b2c9ea05f4fa77c7661fde0e015c49df9a36
+2020 Mandera County Long Rains Assessment.pdf,1310,30,drought_bulletin,2020,filename,,,False,False,False,,b643a77d37f315ea2e4b171567cc956ed7d2e467b32b136ad69bccb7ea1efc69
+2020 Mandera County Short Rains Assessment.pdf,1428,30,drought_bulletin,2020,filename,,,False,False,False,,7423353a3484fc9a0256bdf6b11ba5b8d3eecccf269dd4ab095a475748028f35
+2020-01 Mandera drought early warning bulletin.pdf,1045,12,drought_bulletin,2020,filename,,,False,False,False,,a1d09a92664df5827dddd9a38380a2ad5c456346a3e33ae11e9273fcb67e4c42
+2020-02 Mandera drought early warning bulletin.pdf,856,13,drought_bulletin,2020,filename,,,False,False,False,,59e6f192644ac72794b4aadc7dfb118a92d33ccc1858e21cbb8391d4f3f33020
+2020-03 Mandera drought early warning bulletin.pdf,871,13,drought_bulletin,2020,filename,,,False,False,False,,49b64ddf1f48df0f9516c0666d8971398bce6f66c3be548072e390b1a655c51f
+2020-04 Mandera drought early warning bulletin.pdf,881,13,drought_bulletin,2020,filename,,,False,False,False,,60be473e64b31e47cfcd690c7b8450dd679c26fa22b8b0c556250c0199d37a2d
+2020-05 Mandera drought early warning bulletin.pdf,877,14,drought_bulletin,2020,filename,,,False,False,False,,d3e239231fe21d865653c2c63d9de0b660ed4f758f30bed3921f8fa78df4b09e
+2020-06 Mandera drought early warning bulletin.pdf,899,14,drought_bulletin,2020,filename,,,False,False,False,,d6b17d4ca7d393143c80a67428d1a710337c5eae81006a15708d782a37b2e899
+2020-07 Mandera drought early warning bulletin.pdf,884,13,drought_bulletin,2020,filename,,,False,False,False,,47dbb5ee9230817ab8e6cc4da16c92a953496aa4b4cf27307a89bbf3133de5f5
+2020-08 Mandera drought early warning bulletin.pdf,804,13,drought_bulletin,2020,filename,,,False,False,False,,c4326b31ac86f0687f70244e5d3dc4b639bd294264403cc860d958e413e1bea7
+2020-09 Mandera drought early warning bulletin.pdf,1062,13,drought_bulletin,2020,filename,,,False,False,False,,6cd803f7cad5a269bcb23badba12229429bd8a63c1723f06c7fa526f8ee8ac17
+2020-10 Mandera drought early warning bulletin.pdf,1070,13,drought_bulletin,2020,filename,,,False,False,False,,e2dcc4be53fa83b455439ccba084870f80892fe39a2e34e4cbb1004264ff457f
+2020-11 Mandera drought early warning bulletin.pdf,824,13,drought_bulletin,2020,filename,,,False,False,False,,d7004c63dddce31019c645f99acfc55884a81e3ac3777d5824a92d176d18c42d
+2020-12 Mandera drought early warning bulletin.pdf,847,14,drought_bulletin,2020,filename,,,False,False,False,,dfa02b4327458c269aba870e7e4f6f26e1c2ef9f43c051d446cad85aed269e9f
+2021 Mandera County Long Rains Assessment.pdf,1388,29,drought_bulletin,2021,filename,,,False,False,False,,6b98a5cc04700f752f296da6ad51a6a1b41d4b8b531db1e54205d2993e33b13a
+2021-01 Mandera drought early warning bulletin.pdf,807,13,drought_bulletin,2021,filename,,,False,False,False,,756c488307baa0e93535af188ca02c13a95aad9c8a751996d81ea11bf1bd1521
+2021-02 Mandera drought early warning bulletin.pdf,796,13,drought_bulletin,2021,filename,,,False,False,False,,7ce5b4de7271d9a6561bd97a0353c396325b06f86cc3e35b910f0f097b854211
+2021-03 Mandera drought early warning bulletin.pdf,696,14,drought_bulletin,2021,filename,,,False,False,False,,c23ec3e1b3123b760425f632e2dcbda0fade63304bc71e328179c1e708c9a225
+2021-03-16 RACIDA Mandera County Drought Rapid Assessment- 2021 February.pdf,437,6,drought_bulletin,2021,filename,,,False,False,False,,c79ed5039dad75f0b597f72ebec74badf279b96cc9e6df3b1be6a88a356ae57c
+"2021-03-23 Drought Needs Assessment Kenya, Post Short Rains 2021 - Garissa, Isiolo, Mandera, Marsabit, Tana River, Turkana, Wajir Counties.pdf",993,6,drought_bulletin,2021,filename,,,False,False,False,,2b4928209b4afb77c9995f5ac3b71646be01f8e655c48109edc82fc27da600d9
+2021-04 Mandera drought early warning bulletin.pdf,870,14,drought_bulletin,2021,filename,,,False,False,False,,3927f2525d26ebc6ef2ae1967ae1c00063c06ed1e64d3cb06304e1a98a5a99c8
+2021-05 Mandera drought early warning bulletin.pdf,1001,15,drought_bulletin,2021,filename,,,False,False,False,,553fb1cfbb5c1d347fd7a1728b2dfb9a8418596b4caf6453bc78fa286dced174
+2021-06 Mandera drought early warning bulletin.pdf,1015,15,drought_bulletin,2021,filename,,,False,False,False,,5cf693f2f53049d25c3130cab383353e03ac5fb9b5a8796522cd3443e3744290
+2021-07 Mandera drought early warning bulletin.pdf,1218,15,drought_bulletin,2021,filename,,,False,False,False,,a51f9423a82f627b8617dd2b30c13729de5f245b8034754e8ac1e6cad6b3068f
+2021-08 Mandera drought early warning bulletin.pdf,937,15,drought_bulletin,2021,filename,,,False,False,False,,fc51c993c3dea33fca6ccaf534f0ea9e76474ac6aef27e34ca8022506011e4c5
+2021-09 Mandera drought early warning bulletin.pdf,1318,15,drought_bulletin,2021,filename,,,False,False,False,,34306aafec565d644ae30b081a9f95b3391948a3b715e2070afca0098f629690
+2021-10 Mandera drought early warning bulletin.pdf,1306,15,drought_bulletin,2021,filename,,,False,False,False,,770de884d317d34e09ffb83d25a6cf47a6b032e778c690c6f4ed239434f9869e
+2021-11 Mandera drought early warning bulletin.pdf,1114,15,drought_bulletin,2021,filename,,,False,False,False,,8d1f92fb1af1bde407de680740c3bfe91d0f42bf86bdf704fc86fc5f7db4660b
+2021-11-11 Mandera County- Drought Early Warning Bulletin for October 2021.pdf,1305,15,drought_bulletin,2021,filename,,,False,False,False,,9eeb98a6b1f881b2411a48f0d2427d8334520cc7362c9bba080a9dce1d9a6f31
+2021-12 Mandera drought early warning bulletin.pdf,1077,15,drought_bulletin,2021,filename,,,False,False,False,,80023ae2c9f9101ccb6e5b1ab0e62044551baf87443a0567113058865fe8dda5
+2022 Mandera County Long Rains Assessment.pdf,773,31,drought_bulletin,2022,filename,,,False,False,False,,6ec0a954e2c5b555b2b469fe76240e984e292bbc7e6b7adec8bd648ee2a7f727
+2022 Mandera County Short Rains Assessment.pdf,873,34,drought_bulletin,2022,filename,,,False,False,False,,866a4d00ab7554cd09b5d66ffc49963fc88df044809c3a14983fa97e60d1c130
+2022-01 Mandera drought early warning bulletin.pdf,871,15,drought_bulletin,2022,filename,,,False,False,False,,5956bd386440c55757d13118ca3ffbaa87dfd50dbe3a0804beb29af259e18d4d
+2022-02 Mandera drought early warning bulletin.pdf,1087,15,drought_bulletin,2022,filename,,,False,False,False,,d5c86f9b5f680eed39f541db55fd083cca5fbc5b640cc7f1568f1b960ed191c3
+2022-03 Mandera drought early warning bulletin.pdf,942,15,drought_bulletin,2022,filename,,,False,False,False,,61216dba36456349a8d449245d400d80ccf526d19ffc15cfed3a420bd00aa213
+2022-04 Mandera drought early warning bulletin.pdf,956,15,drought_bulletin,2022,filename,,,False,False,False,,533ffca5e4053a6545aa1ea7c9c3fd21d3648d6d2197b4c07dfa341389b9c502
+"2022-04-23 ASAL Humanitarian Network MPCT New Beneficiaries Endline Assessment, Mandera County, March 2022.pdf",677,4,humanitarian,2022,filename,,,False,False,False,,80d6b7fae54b2c6fa8c554d67f084f0a2444d97a7d58be568a082e2d6747a967
+"2022-04-25 ASAL Humanitarian Network MPCT New Beneficiaries Baseline Assessment, Mandera County (February 2022).pdf",448,4,humanitarian,2022,filename,,,False,False,False,,1c7429737027c18bb0024c57b733e6d12b0453846dc22618db6e41454059565c
+"2022-04-25 ASAL Humanitarian Network MPCT New Beneficiaries Baseline Assessment, Mandera County (January 2022).pdf",835,4,humanitarian,2022,filename,,,False,False,False,,159356d8ab601389efb512dba7892938d4d72501bde391dec91a2e38e219b42b
+2022-05 Mandera drought early warning bulletin.pdf,954,16,drought_bulletin,2022,filename,,,False,False,False,,8144672c08db1ddaf54e8ee4a3fa9165dc74030408aa78f07ea7ef4b611f6683
+2022-06 Mandera drought early warning bulletin.pdf,946,17,drought_bulletin,2022,filename,,,False,False,False,,09101d75ea9a9f1556f10afdfde10a406dcdfc94070a1a4a317c3cc3fc23efe4
+2022-07 Mandera drought early warning bulletin.pdf,941,17,drought_bulletin,2022,filename,,,False,False,False,,e0348c7981597a1858d1697ecd3717bed52bcef276ae175ae95d0063420b5a22
+2022-08 Mandera drought early warning bulletin.pdf,1095,19,drought_bulletin,2022,filename,,,False,False,False,,3fa68110002fb6bea7a1a4ef954a6525843607ba5d0f56847d5652d8e921db2f
+2022-09 Mandera drought early warning bulletin.pdf,1019,18,drought_bulletin,2022,filename,,,False,False,False,,21ba1ff7d1e466f5141f62a4c8726a6037941e263daf2f7a8032d858adecb08c
+2022-10 Mandera drought early warning bulletin.pdf,965,18,drought_bulletin,2022,filename,,,False,False,False,,4d8ca4aa262022ae741935da241079fe949da7c9dff1a6d12fca3a20b8b6b6e7
+2022-11 Mandera drought early warning bulletin.pdf,865,17,drought_bulletin,2022,filename,,,False,False,False,,8a2365bbdf79adf02c5dd18c10381cf8890f4937e6b5eaf534336c8e6fc3513e
+2022-12 Mandera drought early warning bulletin.pdf,1076,20,drought_bulletin,2022,filename,,,False,False,False,,c2e4a5356665c0d2690ce2e4cb6477c3a38ca9774e73c32ab03dff2eac7d1382
+2023 Mandera County Long Rains Assessment.pdf,945,40,drought_bulletin,2023,filename,,,False,False,False,,d0189704a5bcac055278d55a0d3f9959f64c63948e21237ba93761e15f1d082f
+2023 Mandera County Short Rains Assessment.pdf,1032,44,drought_bulletin,2023,filename,,,False,False,False,,c6bf3d33b3bca8668ee211d641f940fd1026ebcd11baab7df304f56f98222010
+2023-01 Mandera drought early warning bulletin.pdf,1193,19,drought_bulletin,2023,filename,,,False,False,False,,3bcaf95129ed237d1b7c75860e89353892cc2ca2851aaf6de9ac6f934ef26e33
+2023-02 Mandera drought early warning bulletin.pdf,994,18,drought_bulletin,2023,filename,,,False,False,False,,11a1d50ba4eaeaff14b86abde051c59a796c79c550ecdffcaecf0d3fa2fc3318
+2023-03 Mandera drought early warning bulletin.pdf,947,17,drought_bulletin,2023,filename,,,False,False,False,,4d33ac41ad4721c46b4e494130fc1ae60a1015e604bbe0bacff2d175fea5207c
+2023-04 Mandera drought early warning bulletin.pdf,930,19,drought_bulletin,2023,filename,,,False,False,False,,a09825f451b72e296630630f046614682d3987a3c1f0766d75061f83681b3355
+2023-05 Mandera drought early warning bulletin.pdf,1002,18,drought_bulletin,2023,filename,,,False,False,False,,9f6b234e2dbe82a49e49dae88dfae099f806d066443dee7f8b69a8b19247c837
+"2023-05-03 Kenya Drought Advocacy Brief- Garissa, Mandera, Marsabit, Turkana, and Wajir - April 2023.pdf",837,4,drought_bulletin,2023,filename,,,False,False,False,,07f6aafbdf964490c7ce1238f4c0963f76c1e7a10b8026d1438f6426828b3025
+2023-06 Mandera drought early warning bulletin (2).pdf,1062,18,drought_bulletin,2023,filename,,,False,False,False,,ca0026c01a0cf069a77d967456221cfd0319aaabb90b76df14e7a91ae7564105
+2023-06 Mandera drought early warning bulletin.pdf,2932,19,drought_bulletin,2023,filename,,2023-06 Mandera drought early warning bulletin (2).pdf,False,False,False,,cda1ef64c7a162f7cd45fcd481f6bb520d359b97b3c529da1e7fcf755696abf1
+2023-06-08 The Mediation Experiences of NCIC and Interpeace in Mandera County and the North Rift Region (May 2023).pdf,6429,58,research,2023,filename,,,True,False,False,,785ae7b78897fca707a377c71ee235f937576730c359d835dbc754dbf233beb6
+2023-08 Mandera drought early warning bulletin.pdf,1009,18,drought_bulletin,2023,filename,,,False,False,False,,8509f69e3e0eb14fc6ccc942149c8e7827edc16339a16d70f0f419d65fc704c2
+2023-08-18 Mandera County- Drought Early Warning Bulletin for July 2023.pdf,1018,18,drought_bulletin,2023,filename,,,False,False,False,,aecb2a70c0a0a95da93446effea4b9c4e95101f397941f1c79a2cac1aef2ba27
+2023-09 Mandera drought early warning bulletin.pdf,1072,19,drought_bulletin,2023,filename,,,False,False,False,,f853020831fb3678773b822a47fcfebffd370fa3f7532f31900f8494d784f4dc
+2023-10 Mandera drought early warning bulletin.pdf,958,19,drought_bulletin,2023,filename,,,False,False,False,,12b12bf9409e6c4b3a91b29f417807869d3f9160c6f3d0a14e12abfd671f8520
+2023-11 Mandera drought early warning bulletin.pdf,1067,18,drought_bulletin,2023,filename,,,False,False,False,,9fadde26e71677a0126fe98918973678d37a55302bece064a33bb166e571cb18
+2023-12 Mandera drought early warning bulletin.pdf,976,18,drought_bulletin,2023,filename,,,False,False,False,,c92cf7aa803b01e0bc1811aa5d28b558f02a9173747592d8b3fb5a26aa995f61
+2024-01 Mandera drought early warning bulletin.pdf,1019,16,drought_bulletin,2024,filename,,,False,False,False,,b7fefaac9bb942ff8f42e74279e7aa3065e2d5d40f76f8c04a575085df60e672
+2024-02 Mandera drought early warning bulletin.pdf,1046,17,drought_bulletin,2024,filename,,,False,False,False,,3c8e34622e7647cec083b92d8d13fde535c732fa895fe9ccfd57e19ae949e1e8
+2024-03 Mandera drought early warning bulletin.pdf,1056,18,drought_bulletin,2024,filename,,,False,False,False,,8f7e9480c5db12a296527f3c2367321811fe9a16c7d6da7370a7835daae61bb1
+2024-04 Mandera drought early warning bulletin.pdf,1067,18,drought_bulletin,2024,filename,,,False,False,False,,486273669fdc83ecf62a9ed223b796cde58059fd957424f376194828b0849da8
+2024-05 Mandera drought early warning bulletin.pdf,996,18,drought_bulletin,2024,filename,,,False,False,False,,c1c5d49bd6214b585dce3963833960f7d3378f78e64eccd94de9a24145e1fdb2
+"2024-05-22 The Kenya Cash Consortium's Locally Led Multi-Purpose Cash Response to Flood-Affected Refugees in Kenya- Endline - Garissa, Mandera, Tana R.pdf",5954,9,humanitarian,2024,filename,,,False,False,False,,a6aba42cac86a42ce533ff3c00767dcdb6ec117ac99fbf9828f00c0b07530b66
+2024-06 Mandera drought early warning bulletin.pdf,918,17,drought_bulletin,2024,filename,,,False,False,False,,cc91d82cef8d3770f9512a8f545d4e9723757d56fbb89fc294d296006db95538
+2024-07-23 Entry-Points for Peace-Positive Investments in Northern Kenya’s Frontier Markets- An exploratory study of prospective peace-aligned investm (2).pdf,19412,76,research,2024,filename,,,False,False,False,,c3fd6f3b8eab3d5be5c99eb412926e7267acc519977b5e0bef94b04397e7c98e
+2024-07-23 Entry-Points for Peace-Positive Investments in Northern Kenya’s Frontier Markets- An exploratory study of prospective peace-aligned investm.pdf,10455,16,research,2024,filename,,2024-07-23 Entry-Points for Peace-Positive Investments in Northern Kenya’s Frontier Markets- An exploratory study of prospective peace-aligned investm (2).pdf,False,False,False,,2618d411e0752fdb4fa08f3b8d4ed35af3c5f81eefb675f6a3aaf5e0312d35bc
+2024-10-02 Mandera County- Drought Early Warning Bulletin for August 2024.pdf,1001,17,drought_bulletin,2024,filename,,,False,False,False,,e7fd45bc6d228707fe66e5eae9e608452f70fec6167a76b6885400469925ca7c
+2024-10-29 Mandera County- Drought Early Warning Bulletin for September 2024.pdf,907,17,drought_bulletin,2024,filename,,,False,False,False,,3d675299a62d881c71aa94382ca38a89dba68c296ec84fe382d0028f631733f7
+2024-11-20 Mandera County- Drought Early Warning Bulletin for October 2024.pdf,869,17,drought_bulletin,2024,filename,,,False,False,False,,529d9f147b7e15683d37a3f0c1af2a4902435d1e1bf229c48e0f9a759ccea86a
+2025 Mandera County Long Rains Assessment.pdf,1156,32,drought_bulletin,2025,filename,,,False,False,False,,5fef068087411294fc1a7cc4b777e532b4b26eb807fd552aa5d46f811ea4ce03
+2025 Mandera County Short Rains Assessment.pdf,1019,41,drought_bulletin,2025,filename,,,False,False,False,,0eef3798168f26e354738468eee851ab7f90b8b7f6326c7254b7317b5996a79e
+2025-01-27 Kenya - Demographic and Displacement Calculator in Mandera County Round #2 (December 2024).pdf,1742,5,humanitarian,2025,filename,,,False,False,False,,bdca3e33ed97a016ca973167cc315cb54db80815c23f60cc63457b173f1bf53d
+2025-02 Mandera drought early warning bulletin.pdf,834,17,drought_bulletin,2025,filename,,,False,False,False,,a5205d1ee1039320996df82592fe9f298e98b3a4ec2018d5c243676368342fa0
+2025-03 Mandera drought early warning bulletin.pdf,780,17,drought_bulletin,2025,filename,,,False,False,False,,2cc7759ab8480a7dd043b3c1c784ce1f049f4a77afd91e7683814ef0401a5818
+"2025-03-26 Defining Pendular Movements- dynamics and drivers within the Mandera Triangle (tri-border region of Kenya, Ethiopia, and Somalia), MMC Info.pdf",529,6,research,2025,filename,,,False,False,False,,0f37a119bdd9cfffdc43b0f96366dde77b0c48ce122a1dd476200cc9998027f6
+2025-04 Mandera drought early warning bulletin.pdf,776,17,drought_bulletin,2025,filename,,,False,False,False,,f4d9108d59b6a38d8d443be7876fcbf869a6f630ab981da99c5e06db3ab418c4
+2025-05 Mandera drought early warning bulletin.pdf,924,17,drought_bulletin,2025,filename,,,False,False,False,,9fab25354bb10875ad941cc03e4544ce05528b308bb708c69dbdefe05139c398
+2025-06 Mandera drought early warning bulletin.pdf,801,18,drought_bulletin,2025,filename,,,False,False,False,,fcebd67772ffd3b28fb66bcf9ba25f1bb6aefb8ac028b15493b4919ce62b987c
+2025-07 Mandera drought early warning bulletin.pdf,917,19,drought_bulletin,2025,filename,,,False,False,False,,a8f2afddf00b27e05ef3047c4b802a9caa96a8c39c694cf01beaaa2fbb7cc77c
+2025-08 Mandera drought early warning bulletin.pdf,779,16,drought_bulletin,2025,filename,,,False,False,False,,adc178d38f1fd49009707ab718ba2c501e0547af7588d18be93b752eba34c5d6
+2025-08-20 Kenya- Rapid Assessment — Mandera County (Data collected 15-17 August 2025).pdf,823,6,humanitarian,2025,filename,,,False,False,False,,acfbcdb45993fdc2dde76021428ac14a9e064d6a5022cc03025bcb4a3fd43a7d
+2025-10 Mandera drought early warning bulletin.pdf,825,16,drought_bulletin,2025,filename,,,False,False,False,,6d224f2f043f8bfa7064553a687d84a7a25804d557333c2466ae07c1d03018ec
+2025-11 Mandera drought early warning bulletin.pdf,828,17,drought_bulletin,2025,filename,,,False,False,False,,c2e871358a56928ffbfb83b884b418ed9a7891fdca1251f51701f230b00201ab
+"2025-11-13 Multi-Sector Needs Assessment (MSNA)- Host Communities and Affected Populations in Garissa, Mandera, Marsabit & Turkana Counties - June 202.pdf",869,7,humanitarian,2025,filename,,,False,False,False,,ec7c150ffb69baa1333e484c05adab437a5cc6798954a8376b992309e2623a26
+"2025-11-27 Kenya- Anticipated impact of drought conditions in Mandera, Tana River, Turkana, and Wajir counties (Anticipatory Note 27 November 2025).pdf",497,6,drought_bulletin,2025,filename,,,False,False,False,,67c6ccb106cc032096f93f6b86ffa86072b7ed73ef8bb7234c444ec16133bad5
+2025-12 Mandera drought early warning bulletin.pdf,704,16,drought_bulletin,2025,filename,,,False,False,False,,a9d97a8959369289952658f15cd9c8f091429bb8917a04a9ceb65598db08b456
+2026 Mandera County Long Rains Assessment.pdf,1001,42,drought_bulletin,2026,filename,,,False,False,False,,bb0e46ce3770d2314654b03b147b0a026b78c970c8be6bd36112ca288acf5e3e
+2026-01 Mandera drought early warning bulletin.pdf,694,14,drought_bulletin,2026,filename,,,False,False,False,,821f9860be6eb388c493ce12805657c92758a048995106307da82eef674c89bc
+2026-02 Mandera drought early warning bulletin.pdf,772,18,drought_bulletin,2026,filename,,,False,False,False,,9bb24ed86dcefa622d59b89b0b0d95a892c70f36bfe3aa8dfdf12b6e34bb7891
+2026-03 Mandera drought early warning bulletin.pdf,828,17,drought_bulletin,2026,filename,,,False,False,False,,98b1542caada9644f2cb52961e75f9fdb24b07c67018ea095f18267110dff94e
+2026-04 Mandera drought early warning bulletin.pdf,793,16,drought_bulletin,2026,filename,,,False,False,False,,ca90834570602188aa7e1434aed1e1dc492d8092dded4f821834e66ed9b25fa6
+2026-04-17 Factsheet- The Kenya Cash Consortium Alert-Based Cash Assistance to Disaster Affected Communities in Mandera County - Baseline and Endline .pdf,539,6,humanitarian,2026,filename,,,False,False,False,,c72c9f7d1da23039679d3ced04b3b8597131ddd0ffa870525656d8f295643a26
+2026-05 Mandera drought early warning bulletin.pdf,803,16,drought_bulletin,2026,filename,,,False,False,False,,9bfb8f1aaf19090047ee5e5b258db8ca3e55a8679c4fc5e92dabc573be2f0665
+2026-06 Mandera drought early warning bulletin.pdf,802,14,drought_bulletin,2026,filename,,,False,False,False,,70b27fe1b595a7fd8ab8ec37fb16f1e5dbbae6a1e96fcfeb8d07c6d25ced5714
+2026-06-11 Policy Brief- Breastfeeding for Resilience and a Healthier Planet Promoting Optimal Infant Feeding Practices Across the Mandera Triangle.pdf,146,6,law_policy,2026,filename,,,False,False,False,,28d4823c0f84b4c2e547454b4fe264d321d0070868772741b536d282f93920b3
+2026-08 Mandera drought early warning bulletin.pdf,831,14,drought_bulletin,2026,filename,,,False,False,False,,aab2634cade54e6b5886d7665f6f02c384a6de1fbfe8577a320c69fa7de2792f
+"2026-09-25 Multi-Sector Needs Assessment (MSNA)- Host Communities and Affected Populations in Garissa, Mandera, Marsabit, Turkana and Wajir Counties, .pdf",1538,11,humanitarian,2026,filename,,,False,False,False,,5cd42f2aab3a6e84b0e5ee7c02b58f1c9492621711d802caa035d96c4aed4465
+ACDI-VOCA Conflict and Climate Analysis Mandera cluster.pdf,1508,64,research,2023,manual,,,False,False,False,,c5a226e59e328f1c83814a27c9374670652181f2ef503f9c47f3c9d84269b2de
+ADP – 2024-2025.pdf,2920,225,adp,2024/25,filename,,,False,False,False,,2ac526c81038f381e37a43ce4b7c6522b370047b7f587d03ce9203ba7c07f1c5
+APPROVED MDR COUNTY  BUDGET 2020-21 (id 463).pdf,344,39,budget,2020/21,filename,,,False,False,False,,fe4485222527d2bd2bb69bcc152124094aaf8fbdd12cf80306f319fb53acb697
+APPROVED MDR COUNTY BUDGET 2020-21.pdf,522,39,budget,2020/21,filename,,APPROVED MDR COUNTY  BUDGET 2020-21 (id 463).pdf,False,False,False,,626b01c53164bab326749d1db4ccf2f1ad5f348e5346338f1ccf801ea820abb2
+"Action Against Hunger - Integrated emergency and recovery response, Mandera and West Pokot (USAID 2022).pdf",1061,17,humanitarian,2022,filename,,,False,False,False,,9153bbf5eb0cb8b99bef5ff1af995392dc9357674746cd3364a3901344be2bd4
+"Africa Nazarene University - Antecedents of Government Security Programs Implementation Success in Combating Terrorism- A Case of Mandera County, Kenya.pdf",1692,103,research,2021,text,,,False,False,False,,12361bc20021635d1143e94c2b2718adddf19d7c1f488323dd5c20f3d9badad8
+"Africa Nazarene University - Contribution of livelihood options to socio-economic wellbeing of households in Mandera East sub -county ,Kenya.pdf",3539,107,research,2020,text,,,False,False,False,,fca44db577d688efa73af9eebab6803c1facc5b1f4bfbd4f10ab16c9108ed8f8
+"Africa Nazarene University - Determinants of Youth Radicalization and the De-Radicalization Process- A Case Study of Mandera East Sub-County, Mandera County, Kenya.pdf",1601,142,research,2025,text,,,False,False,False,,a0872fc40cce3e3cc2bbf2785d41f35bacbe4fed9af6264a5aefd9b2b4a0049f
+"Africa Nazarene University - Effects of improvised explosive device attacks on livelihoods of the people of Mandera East Sub- County, Mandera County , Kenya.pdf",1043,104,research,2020,text,,,False,False,False,,f031411090e3ed5f5fcba58776658a4894b7bf4ad9c52f12068be375e958eee4
+"Africa Nazarene University - Environmental impacts of stone quarrying and their influence on the wellbeing of households in Khalaleo, Mandera County, Kenya.pdf",2133,110,research,2022,text,,,False,False,False,,58d21d596d53f1e7249a6496fb121788d6e96ff598cb47c3a17333ba32cda4f9
+Africa Nazarene University - Evaluation of Border Security and Counterterrorism Strategies- A Case Study of the Mandera Border Point in Kenya.pdf,2610,106,research,2025,text,,,False,False,False,,c5c9c56929ed9d9618bf06105710abeb6e38a60aae864816ce2d4bba266dc7cb
+Africa Nazarene University - Influence of Interclan Conflict on Counterterrorism Efforts in Kenya's North Eastern Region- A Case Study of Mandera North Sub County.pdf,2607,132,research,2025,text,,,False,False,False,,48f64245412e874b076505d14e97c69804477bba085f2be54ba5fdb71804b8f7
+An assessment of the management of kcse examination and its Influence on irregularities among students- a case of Secondary schools in Mande.pdf,75,2,research,2013,text,,,False,False,False,,b50c2946fe44fdf586b89484d689a58850fd86c52b7692a5685232086b92113a
+An assessment of the security threats caused by criminals by criminal gangs in kenya and its impacts on the bussiness community;A case study.pdf,621,2,research,2015,manual,,,True,False,False,,c07cbaa6bdddb10f6b8b158ec8b9caad7c34926972e6d8fdc4644fffbba7cd32
+An examination of the role of the local communitues in curbing terrorist threats in North Eastern Kenya-case study of Mandera County.pdf,1022,3,research,,,,,True,False,False,,ec651eeeefa1bf8e3116d8a69ca1b8d590b76ccc5ac958272ed10a49f0e60b7c
+"An investigation into female genital mutilation (FGM) and its impact on enrolment, retention and academic performance on girl child educatio.pdf",311,2,research,2014,manual,,,True,False,False,,a7d5eed63e5c42658b3e5e0e65d4d714df87a277381cbb601fc114e81b5eaf31
+An investigation of the effectiveness of teachers’ coping mechanisms in managing Workload stress in public primary schools in Banisa Sub-cou.pdf,215,2,research,2015,text,,,False,False,False,,f4859d82b67a618de3afc0eb4da4768f31efdf7b5db48d4838cb68a0545b2455
+"An investigation on causes of poor performance among pupils within selected primary schools in Dandu Division, Mandera West District, Mander.pdf",483,2,research,2012,manual,,,True,False,False,,74f2cf6f37d1e5487cd8145be87c15dc6247883946abc798d7df7a8dee711ac3
+"An investigation on how indiscipline affects an academic performance of primary school pupils of selected schools in Qalanqalesa Division, M.pdf",549,2,research,2012,manual,,,True,False,False,,6f21b021fb1e37d998e499249ae74f16e60b6e0bf21a1aac767d8ea1ffc2b2e5
+"An investigation on poor performance of nomadic children-A case study of Takaba primary school in Mandera West district,in North Eastern pro.pdf",270,2,research,2012,manual,,,True,False,False,,2098a1f6a0af874ed0c6e8c80c914d0150069a5f0f6eca19b71e395f5a421e30
+"An investigation on te effects of Khat consumption among muslim youth in Rhamu town ,Mandera county ,Kenya.pdf",579,2,research,2014,manual,,,True,False,False,,f787eb30bd0398e297c029f316b6bfc60603bfa744154091bf2d5f170960f1c5
+"An investigation on the effects of khat consuption among Muslim youth in Rhamu town, Mandera county, Kenya.pdf",548,2,research,2013,manual,,,True,False,False,,06ba50315b3a22633a75860b4d14cde583a530a79d56af003519eade8f38e6e3
+"Analysis of Accountability Practices on the Performance of Groundwater Projects in Mandera County, Kenya.pdf",458,10,research,2023,text,,,False,False,False,,f2a0c853d3991a50b6fb73914f6eb57895ab8b3daada8dceaeba1655aaab4e38
+Analysis of Impacts of Working Capital Management Practices on Financial Performance of Small and Medium Enterprises (Juakali) in Mandera Co.pdf,1139,19,research,2021,text,,,False,False,False,,23658d8459cca9548d4d4b5dcb7f791a76fa27004c22703555436c7090c1bf68
+"Analysis of human resource management practices on performance of public secondary schools in Mandera east sub county, Kenya.pdf",1370,106,research,2025,text,,,False,False,False,,f0cc8d3d2c19c5cd93593147f391d64b3091f9d2da0cb6bda1d63715a2bd79c1
+Analysis of the role of transparency on accountability of public entities in Mandera county government.pdf,1502,110,research,2024,text,,,False,False,False,,763891376aef6b858b259ba3e24773b87a18b9840d6c3711b75207d32f6485e4
+Annual Development Plan 2024-25.pdf,3204,195,adp,2024/25,filename,,,False,False,False,,847a30a0ca7f7b4552bad18e320d5599b3e4dadc70941a31a3df9e4e43afa306
+Appropriation Act 2019.pdf,273,6,budget,2019,filename,,,False,False,False,,eb5716fc13b7bc02b2b9fe47b2d1b73bb7768fa39d0aef318b6b97e2574fea60
+Appropriation Bill 2015.pdf,185,6,budget,2015,filename,,,False,False,False,,b547f8a38cc256e930f58ac79a39ae5fe569a4a600e04797a82c29fb4ff227a4
+Appropriation Bill 2018.pdf,338,6,budget,2018,filename,,,False,False,False,,019355ee5276be0ea89008472d3a6a95eb3bc72c843ed87d06a60db321245784
+Approved 2019-2020 Mandera County Budget.pdf,356,56,budget,2019/20,filename,,,False,False,False,,e524fa851d573f372b257f3ca62616b81c3638e020e7f075051e8a4895c88c96
+Approved Budget 2018-2019.pdf,902,72,budget,2018/19,filename,,,False,False,False,,797fc570dfbb75130e5826ecf8ecf10903038657fcb7dab44978f163aae85b15
+"Assessing the effects of free primary education on secondary school enrollment in Elwak zone, Mandera county.pdf",9,2,research,2015,text,,,False,False,False,,5119d86675d5c76afee2346a5f12fc87c193037566892f33d2d7a97960576276
+"Assessment of the impact of level of environmental awareness on public health services in Mandera West Sub- County, Mandera County, Kenya.pdf",220,10,research,2024,text,,,False,False,False,,037d3feb19917a25cc2c64198c12cd04f84b7efc55e9886b804ecbba1745455b
+"Assessment of the impact of level of environmental awareness on public health services in Mandera West sub- county, Mandera county, Kenya (2).pdf",350,10,research,2024,text,,"Assessment of the impact of level of environmental awareness on public health services in Mandera West Sub- County, Mandera County, Kenya.pdf",False,False,False,,9fed4bcfccbf8a40e6e5c369f0f65b9b794181eec65e6313af597e78498b2ec4
+"Assessment of variables influencing abject poverty in Mandera county, Kenya.pdf",1077,93,research,2024,text,,,False,False,False,,5972234759ff36829b77c62f99f6f4f634fffe4a4166a276210243d4f6bc71e2
+"Assessment of water sector reforms on enhancing socioeconomic development in Mandera County, Kenya.pdf",639,2,research,2016,manual,,,True,False,False,,3cc254178f1ef0ce0a5e838cdd582e2e0424a8d225acd098886c7e362a807322
+Auditor-General - County Assembly FY ended 30 June 2023.pdf,40872,58,audit,2023,filename,,,False,False,False,,8755db66562fb32ac15445658d60a5f150e3fd7c7e70fc65d9e6cae8abe05b05
+Auditor-General - County Executive FY ended 30 June 2020.pdf,137860,164,audit,2020,filename,,,False,False,False,,381513b9e5164add024ea5ed56c68ed4de5d079011987f9edb7571484fe5b19e
+Auditor-General - County Executive FY ended 30 June 2022.pdf,111393,96,audit,2022,filename,,,False,False,False,,1252fbb8efb632e645871fd594128c39c8451f7d10268ca8d6e8acbda2747ccb
+Auditor-General - County Executive FY ended 30 June 2023.pdf,101368,134,audit,2023,filename,,,False,False,False,,9337105bbec0e8e0ec18a99d389a94c4e0d72d80fb847ca79c4b38c757951e9a
+Auditor-General - County Executive FY ended 30 June 2024.pdf,48627,117,audit,2024,filename,,,False,False,False,,36cd94b822efd287ef3c60d2688e14c76012d43b0ac9c6c0d4a108083e9ceaa9
+Auditor-General - County Executive FY ended 30 June 2025.pdf,34530,96,audit,2025,filename,,,True,False,False,,83aa74828ecaea6e5330dcfda2c8ab5d42cc1fbe48e9f830084697bfd85a2e28
+Auditor-General - County Revenue Fund FY ended 30 June 2022.pdf,35155,33,revenue,2022,filename,,,False,False,False,,01edb6bd7fe258730906e9890684c13dd5c95af499491d59b2e63b7291094d51
+Auditor-General - Mandera Municipality FY ended 30 June 2025.pdf,22239,76,audit,2025,filename,,,True,False,False,,c78efaed4643e20f1617545ff258fb45026c1a4ab03479eef92f80164ef7e39a
+Auditor-General - Receiver of Revenue FY ended 30 June 2023.pdf,24403,34,revenue,2023,filename,,,False,False,False,,d1f04acf8b0f929704e68d8248cc854a81fe7f52a6a6b4f74f75a3724f5f6ba2
+Budget Guideline 2018.pdf,325,6,budget,2018,filename,,,False,False,False,,211817bdf0ae88ae7481f7a4ee3f1b45402fc6880fdd1b4efa56fc3240182936
+Budget Implementation Report – 1st Half 2017-2018.pdf,389,10,budget_implementation,2017/18,filename,,,False,False,False,,ea79e431d08dfc8559f25405b61e0e7abbf5c8b186cf1f27d6874601f94323ca
+Budget Implementation Report – 2nd Half 2017-2018.pdf,358,11,budget_implementation,2017/18,filename,,,False,False,False,,e57aa9414aeb17e2d94756428a342c8c4b19d215dbb3bd8fff6e36b9767b7600
+Budget estimate 2021-22.pdf,62,10,budget,2021/22,filename,,,False,False,False,,ddd1ede1b9944d77e2b404b212e92c5577ab26ed5d7720fc21964b20ae235c66
+Budget estimates FY 2021-22 (County Assembly).pdf,6489,58,budget,2021/22,filename,,,False,False,False,,4595ac55ddbd26ffff91f60be7d0dda7cf57330ce71efcfeabe1cb181d163b79
+CBROP 2025.pdf,1851,76,cbrop,2025,filename,,,False,False,False,,1d84e4cefe627642d4fd60bade445f664aed3f9c70ba090914ed135bdcb28ebf
+CIDP 2018-2022 Public Participation Report.pdf,6974,159,cidp,2018-2022,filename,,,False,False,False,,5964d95e23297faf28fcecfd5857e5f9cec3e5630470c3a44eda7057938536f2
+COUNTY ANNUAL DEVELOPMENT PLAN FY 2027-2028.pdf,2193,132,adp,2027/28,filename,,,False,False,False,,e98944cdcd314654169c9f8429bc33da14ff81d4c09e0cfa7e26cd7c2b35b51f
+COUNTY BUDGET REVIEW AND OUTLOOK PAPER (CBROP) 2026.pdf,1791,83,cbrop,2026,filename,,,False,False,False,,2b2e03eb56637ce2d2834ccba6efbc27cc2c38c8de43e75d6d9ca3ef78830e66
+COUNTY DEBT MANAGEMENT AND STRATEGY PAPER 2024.pdf,528,18,plan_other,2024,filename,,,False,False,False,,85cc396720a7b19359c6d02b1e1b0b67c10db83294b4d2302aee19fcbbb9eefe
+"Capital management practices on financial performance of Selected small and medium scale enterprises (smes) in Mandera County, Kenya.pdf",1517,89,research,2025,text,,,False,False,False,,e98b19f89b925ba18b3de6f7aa04550f5edd5dbe2ca635244cea9a27c7b41d07
+"Causes and effects of poverty in learning among secondary Schools in Rhamu zone Mandera North district, Mandera county.pdf",152,2,research,2015,text,,,False,False,False,,e43437f491e6fa1665aacb1d601c2ecdfa77e91dd4f82bdfe386b0a9e9bc938d
+"Causes of cheating in National Examination among secondary schools in Mandera west sub-county, Kenya.pdf",514,2,research,2014,manual,,,True,False,False,,953977df5a903ed71323a4d8f3c7f7bfbc5b0d79ee925dc54ca93f6c16d3d666
+Causes of low enrolment of girl child in secondary schools of Mandera west sub-county in Mandera county-Kenya..pdf,668,2,research,2014,manual,,,True,False,False,,fc2de2ef8ce715ca5b4979207d3a9b7e56e95031fabe910a53b6e7691a06ac16
+Challenges faced by muslims in education of Girl child in Kenya. A case study of Rhamu township in Mandera North constituence.pdf,611,2,research,2015,manual,,,True,False,False,,5f9f835bc5b5937899f0f8b0fca02b88b5457120bbbe48f863fb9c09dd05a8c4
+Challenges faced by muslims in education of girl child in Kenya-A case study of Rhamu township in Mandera North constituency..pdf,622,2,research,2015,manual,,,True,False,False,,1f9be34e07840e5fb8ab80579e73a5e35496760c80063a65aacf323d5283a72b
+Citizen Participation Act 2017.pdf,1306,30,law_policy,2017,filename,,,False,False,False,,740cedb340482f6b674f858e4c3884b0007e54bbf85574399caee2aae6494025
+"Concequences of gender on the academic performance of learners in primary schools. A case study of public primary school in Kutulo Division,.pdf",649,2,research,2012,manual,,,True,False,False,,302b2ced72891f5dede36ac33f1abafac36bc73f7d68dc0263c9c0ebeb10c3d4
+Consequences of gender issues on the academic performance of learners in primary schools-A case study of public primary schools in Kutulo di.pdf,391,2,research,2012,manual,,,True,False,False,,2d9c15a3743538e7d97e6d31478e45870d23619f18325f9607b0ae115f9d8bb3
+"Constructivism instructional approach on students’ achievement in mathematics in secondary schools in Mandera central sub county, Kenya.pdf",2925,125,research,2021,text,,,False,False,False,,008e7e751c1f1d191696153b5961676dd238fa536a6ab0dfc8438e602c4c5417
+Controller of Budget - CBIRR first nine months FY 2021-22 (all counties).pdf,6444,482,budget_implementation,2021/22,filename,,,False,False,False,,8dbe4b067081864d6a3f2cd12f51550acf44f0fe5684bba1b834a899ddadc3c6
+Controller of Budget - County Governments BIRR FY 2024-25 (all counties).pdf,174932,603,budget,2024/25,filename,,,False,False,False,,b69858e28e2c59de961f39e749e9885462e5608e9db2291b807040cc59a35f5c
+Controller of Budget CBIRR first nine months FY 2023-24.pdf,47297,640,budget_implementation,2023/24,filename,,,False,False,False,,e43c127254d808cf3db123d94798e1a3cd579c762cc6a2e5959ceb1c2e9c1671
+County Annual Development Plan FY 2025-2026.pdf,4341,249,adp,2025/26,filename,,,False,False,False,,645f748b4bebb712e993fafcdecd6a62a45d84b0e96459e44b93c5eba37b18ee
+County Climate Change Action Plan 2023-2027.pdf,5068,83,plan_other,2023-2027,filename,,,True,False,False,,cecc2c1b78c57a18791eae1f1e083d01d689a642c18d867ae846766e8053e737
+County Debt Managements and Strategy Paper 2025.pdf,290,18,plan_other,2025,filename,,,False,False,False,,f8bbc0d0ff0c2b6c7a4a3bf43c4b28845c846f4cb1b75c0f37986b8a6795aa1e
+County Education Bursary Acts.pdf,232,18,law_policy,2014,text,,,False,False,False,,1e9eac71f92dfba97fd85e38330d1dab606b0a3d0bce61cbb55e5f4588c08b02
+County Gender Training Plan For FY 2025-2026.pdf,2869,3,plan_other,2025/26,filename,,,True,False,False,,f79adbfa1e9ebf1cac9d1007a2ad135d60c0653fa89119ac78fe13713edd021c
+County Treasury Budget circular 2026-27.pdf,55213,10,budget,2026/27,filename,,,True,False,False,,af6aff9cc2d366b1993695300e186f40d313219d03dc7ff3de9ca5af158b3e52
+County Treasury Documents.pdf,369,8,progress_report,2018,text,,,False,False,False,,43616fa557237da407367ae7e6ce113c90aad8c9a388d9514cdca13f236eb52f
+Determinantsof financial sustainability of not-for-profit organisation in Mandera County-A case study of Habiba International.pdf,576,2,research,2015,manual,,,True,False,False,,aefd0c880add8b9dc159c8c60787162a31bb3c3101df949a364b4d331b691980
+Does Stakeholders’ Security Planning Influence Security Management Outcomes- Empirical Evidence from Public Secondary Schools in Mandera Cou.pdf,284,11,plan_other,2022,text,,,False,False,False,,c3ff2d7dc71916e7c9670161e0053fea3886cf988b1c4a6eeb4934195516d9e7
+"Drought adaptation strategies and sustainability of food security in Mandera county, Kenya.pdf",1438,123,drought_bulletin,2025,text,,,False,False,False,,0734cd7cc85300e266a367ff6a7356531db128ed7d4b5c9af2c347f3b4e2d74b
+"EAJASS - Effects of insecurity on social activities of pastoralist communities, Mandera County.pdf",317,14,research,2024,text,,,False,False,False,,020dfed34ce2f41ffb595c3552820a011e6ed26f116eea22dbc7a4a0519938d9
+Effect of Authoritarian Parenting Leadership Style on Academic Performance of Students in Selected Secondary Schools in Mandera North Sub Co (2).pdf,217,9,research,2024,text,,,False,False,False,,3988bf077d756e97302b7a70dd7dc0c942ac7ec65894b69f380303166a828345
+Effect of Discipline on Public Primary Schools Performance in Mandera East- A Case of Central Division.pdf,672,2,research,2012,manual,,,True,False,False,,fdbdb5b6d071149916682b65d46f1194dc609e4fced5060f8e45438021036f16
+Effect of discipline on public schools performance in Mandera East-A case of Central Division..pdf,427,2,research,2012,manual,,,True,False,False,,21549fd9db3c9be24f8e7d6710425171adc73e942def9f1c7ad0def5ce72bf7c
+Effects of devolution on social- Economic development in Kenya.( A case in Mandera county).pdf,577,2,research,2016,manual,,,True,False,False,,d370d2cc386006b7ea9d274978e3656c1e616ee3399f167da1401fdb9cb873aa
+Effects of discipline on public primary schools academic performance in Mandera East- A case study of Central Division..pdf,106,2,research,2012,text,,,False,False,False,,a2bd967287265438bd5e42be7a903d0aaa4e547813f49de93f84723ee93a47c7
+Effects of drug abuse among secondary school students in Elwak at Mandera County.pdf,61,2,research,2015,text,,,False,False,False,,b1c1e6047e31dd386dfd3e4848de6292fac973bcdebffc21002e54187417b698
+Effects of human conflict in social-economic development A case study of Mandera County.pdf,472,2,research,2014,manual,,,True,False,False,,9d1531a7ea0185b16b08ab047fb0ab373511a3eb335bae1ee136098c55bee680
+Effects of human conflict in socio-economic development- a case of Mandera County.pdf,423,2,research,2015,manual,,,True,False,False,,f2956687dc1d63a3e0abdaf95969523e153a4a4bb55288535f6b056da67133f0
+Effects of insecurity among learners in Rhamu Mandera county..pdf,175,2,research,2015,text,,,False,False,False,,4f8d6846427c91cb67f9feaf2e9add9cee2e6ca33f265170b18555bc7fabbb41
+"Effects of insecurity among learners in Rhamu, Mandera County..pdf",626,2,research,2015,manual,,Effects of insecurity among learners in Rhamu Mandera county..pdf,True,False,False,,934a37abd47f34ce67f6a78068f946bcfa3e60e27dfa652d4536541c9cf0d650
+"Effects of school feeding programmes on pupils enrolment in public primary school in Banisa zone, Mandera county.pdf",501,2,research,2015,manual,,,True,False,False,,5b46560fda3284f664f92ee25d72b42fb339a8ba5d98bd289df2ba06b0bdfa54
+"Effects of terrorism on economic development in Mandera County, Kenya (2).pdf",513,2,research,2015,manual,,,True,False,False,,2847f71fc143c66bc7d5d6a5556e20354446a9b059a2ca319b39a41a0a04ae81
+"Effects of terrorism on economic development in Mandera county, Kenya.pdf",517,2,research,2015,manual,,"Effects of terrorism on economic development in Mandera County, Kenya (2).pdf",True,False,False,,5c9869b8d99d481a1f1e13315b4089227148f0cf628a1a0e8e2d101e508fff0c
+"Effects of terrorism on social economic development of northern Kenya, Mandera county.pdf",2121,101,research,2025,text,,,False,False,False,,5a6a4cf931de239afd4f72b2d1b8f0dd94e3fc13f86069747938cbb47c3421e7
+"Evaluation of Job Satisfaction Among Teachers in Public Primary Schools in Mandera East District, Mandera County..pdf",40,2,research,2013,text,,,False,False,False,,11b66a7ae3f9c83e4b807b4e8298e5179fa7b5045fd81b72a024aa7c621d05db
+"Evaluation of job satisfaction among teachers in public primary schools in Mandera east district, Mandera county.pdf",597,2,research,2013,manual,,"Evaluation of Job Satisfaction Among Teachers in Public Primary Schools in Mandera East District, Mandera County..pdf",True,False,False,,d83486ef887f31db0dba80f67e6571a9d5e6843d0a64af6c6a00e724042caf23
+FACT SHEET 2021.pdf,3512,8,humanitarian,2021,filename,,,False,False,False,,082750b758a8f4f92e8389183ef037950a8365cef8af4384b1e5ccb721f90b61
+Factors Affecting Academic Performance of Girls in Kenya Certificate of Secondary Education (K.C.S.E) in Public Schools in Mandera North Dis.pdf,559,2,research,2012,manual,,,True,False,False,,4ab68cd2695c95a2e5f2d0771fb3ad5d195a5a072b81a9191afef4e5345933f4
+"Factors affecting success of youth enterprise development funded projects in Kenya- a case of El Wak division, Mandera county.pdf",515,2,research,2015,manual,,,True,False,False,,19f743db3f01c4db4ee7e25eae4f3a6f7f04e9ac15fb37d1cc738bb81d47314d
+Factors affecting sustainability of programs in mitigating drought in Kenya- A case on Northern and programmes in Mandera County.pdf,833,2,research,2015,manual,,,True,False,False,,b3e4b3630b32af8e888e8ad2705bfbdf044cab13f58421d7d540c0d27c7a232e
+Factors affecting sustainibility of programs in mitigating drought in kenya-A case study of Nothern Aid programs in mandera County.pdf,815,2,research,2015,manual,,,True,False,False,,f3b6ff952658518a02e31b38963e44505a953658121f057b38d16690bb8dedf9
+Factors associated with hygiene practices among breastfeeding mothers attending maternal and child health clinic at Mandera county referral .pdf,1635,116,research,2025,text,,,False,False,False,,a3ae1dc586d49331aa1e7531e2e4dac42cdabd3617d1e3bb9b1ea85cadd0ee6f
+Factors contributing to poor academic performance among secondary school girls in Mandera county..pdf,728,2,research,2014,manual,,,True,False,False,,54de895e9bf73856176e6951400641a2af3bb0996fd1a9a3ed6ec7e5bc148ae2
+Factors influencing child language development in secondary schools in Mandera sub county..pdf,657,2,research,2014,manual,,,True,False,False,,ea7b481e0794e7024f11f7fa11971f4f25896982b10f92860bf40a5f89c84b52
+Factors influencing early child marriages in Mandera central constituency in Mandera County.pdf,526,2,research,2016,manual,,,True,False,False,,aeb9ed0fe521f566cbeb4692c87772b84d65ff51671cc9ee767e3793b26dfd8f
+"Factors influencing high staff turnover in commercial banks in Kenya- a case of Kenya Commercial Bank, Mandera..pdf",615,2,research,2016,manual,,,True,False,False,,f2f1f923d1d7ec39dbff2d3fb6afdce7b738dfa372fdfc5be55dd94ff786b0e3
+"Factors leading to low enrollment of female students in secondary schools in Mandera West, North Eastern province, Kenya..pdf",623,2,research,2012,manual,,,True,False,False,,53e490a2d5e2a2939af4357ad019bb4dda08ad7e612e0dd258fd40ba05fcf753
+"Factors leading to low enrollment of female students in secondary schools in Mandera west, North eastern province Kenya..pdf",789,2,research,2013,manual,,"Factors leading to low enrollment of female students in secondary schools in Mandera West, North Eastern province, Kenya..pdf",True,False,False,,ebbf2ac3fb2050a5c13e739026511663a458edf697c87afac54ab9041d47f9f6
+"Factors leading to low enrolment of female students in secondary schools in Mandera West, North Eastern Province, Kenya..pdf",604,2,research,2012,manual,,,True,False,False,,8b3dfc30a0ad05f6db79663802f26d7f9384108368867f37169b335864c87552
+Finance Bill 2020.pdf,1386,57,revenue,2020,filename,,,False,False,False,,43b6ea1521f4700737ed13fcd35ef7557f01f28295fc508c093f6898436e5b99
+Finance Bill 2024.pdf,962,133,revenue,2024,filename,,,False,False,False,,e87728147dcde236f0b107fcecd9c9f2c00f7d7a0336c9fa3870dee1542e95e6
+Frontier Counties Development Council Act 2019.pdf,704,18,law_policy,2019,filename,,,False,False,False,,ec15ef01dfd0a46df11e9d11989bdda294678d5eeb8c1ba7c3072f0c39f5fd65
+Guardian willingness to vaccinate adolescent daughters against human papillomavirus for cervical cancer prevention in hard-to-reach communit (2).pdf,211,6,humanitarian,2023,text,,,False,False,False,,3a6a081bce52258d99dcf216df5bf416813f09fb5feb530e9338fd32f835591b
+Guardian willingness to vaccinate adolescent daughters against human papillomavirus for cervical cancer prevention in hard-to-reach communit.pdf,1172,112,humanitarian,2024,text,,Guardian willingness to vaccinate adolescent daughters against human papillomavirus for cervical cancer prevention in hard-to-reach communit (2).pdf,False,False,False,,bd5e46ee18dc54b45af900f75162c66207f003a87daeb30cf85b5858bf3ed5bf
+"Headteachers’ leadership styles and their influence on pupils Performance in public primary schools of central division, Mandera East distri.pdf",126,2,research,2014,text,,,False,False,False,,890c5fc4df2a57b0c8e6c85458259340e2de0578ed102eaafa7c082d0129cc55
+Health Services Act 2019.pdf,755,19,law_policy,2019,filename,,,False,False,False,,740b01bd19c31ff7eb0117cc55f78d2da483aee5771c8996e73f9d3a40bcd0cc
+"INFLUENCE OF EXAMINATION SETTING PRACTICES ON ACADEMIC INTEGRITY IN PUBLIC TERTIARY INSTITUTIONS IN MANDERA COUNTY, KENYA.pdf",406,13,research,2024,text,,,False,False,False,,30fcaefc266b5b5e6ff6ff733930302164b3dff3320dcf8bf5f5e4178708e948
+INTEGRATED STRATEGIC URBAN DEVELOPMENT PLANS FOR MANDERA ELWAK AND KOTULO.pdf,193,5,plan_other,2010,text,,,False,False,False,,36666186004267058edf6142ec971adc07280d0112214854cd7fa02a9f657410
+Impact of child labour on educational achievement within Mandera County.pdf,559,2,research,2010,manual,,,True,False,False,,911f07f106f28bf8c711caf953900d1f453f9e77320c9c50fe6d3f2852d3385c
+Impact of child labour on educational achievement within Mandera county- a case study of Mandera town.pdf,568,2,research,2010,manual,,,True,False,False,,4e6ac89e16eb95833d6b5249958b417f2a1f0e0fc50fcf9bc78d79f4c0c4e182
+"Impact of environmental governance on public health services in Mandera West sub- county, Mandera county, Kenya.pdf",1030,112,research,2024,text,,,False,False,False,,a41f6e74f97aba1a15d68c8164222fb38317a0b6fefa6d8bb78b8b1cb5ce913f
+Impact of leadership styles on employee productivity in public sector organizations- case study of NHIF Mandera county.pdf,979,103,research,2024,text,,,False,False,False,,0422ff374cdd49929a0029c7a4b246d3d40ab2d84138f022b52bd30bd299198f
+"Impact of socio- economic background on student’s academic performance in secondary schools. Takaba, Mandera, Kenya..pdf",62,2,research,2015,text,,,False,False,False,,14f3ef233a682f8b96e0fc620ba3445868914e0d285ac79a0cc1feda411faef0
+"Influence Of Examination Storage And Distribution Practices On Acadmeic Integrity In Public Tertiary Institutions In Mandera County, Kenya.pdf",190,5,research,2024,text,,,False,False,False,,e2819a02539322f9787476051c23032d0714a7675bf000b353654bc69321c7cc
+"Influence of Hidden Costs on Participation of Students in Public Secondary Schools in Mandera West Sub-County, Mandera County, Kenya.pdf",422,13,research,2023,text,,,False,False,False,,3e67a5dcbb6f3c24d854cbe11a87e897bbdfc002f91facd3f652260dade387f9
+"Influence of community policing on incidents of crime reduction in Mandera county, Kenya.pdf",1484,150,research,2025,text,,,False,False,False,,bb663104b08f2b7573c82a47961108b619c34057165091da04a6eec4005c4fde
+"Influence of examination management practices on academic integrity in public tertiary institutions in Mandera county, Kenya.pdf",2284,221,research,2024,text,,,False,False,False,,a869244de2ec305ccb500be7d5653970ad8dd85db7dbafe10abcc833809dca17
+Influence of head teachers’ tenure on the levels of compliance With health and safety standards in public secondary schools in Mandera Count.pdf,136,2,research,2013,text,,,False,False,False,,580aa0ef7f3a47592ee1b39e6fac09950003ad6e2b15f1fd84d7088617193d87
+Influence of human resource management practices on employee performance at Mandera county government Kenya..pdf,1079,102,research,2024,text,,,False,False,False,,ae143c5a32637418ca5234e4dbf0184670b71c461d364a29705ce39079056e7a
+Influence of principals' teacher motivation strategies on students' performance in the kenya certificate of secondary education in Mandera e.pdf,1876,113,research,2024,text,,,False,False,False,,4f1cde5e4255e07f99962124a993fd8095ab3d54d2579421b399fafd27023f1c
+"Influence of principals’ book-keeping skills on financial performance in public secondary schools in Banisa sub-county, Mandera County, Keny.pdf",395,12,research,2024,text,,,False,False,False,,84cd985fbbdfe3937a4818aa9dcc896e48da8d50cf07460acfed1aa0bb23ead8
+Influence of principals’ resource management strategies on student academic achievements in public secondary schools in Mandera east sub-cou.pdf,2560,126,research,2024,text,,,False,False,False,,84cf13791dd823d44c4608440bda5e7c0ca0eb8de64c6cd0f2ee97f71c4f4d43
+"Influence of project monitoring and evaluation on the sustainability of community-based projects in Mandera county, Kenya.pdf",360,7,research,2024,text,,,False,False,False,,ea9d5a9e1b564820ac5fa51de879cec5b2c0b40f7789bfb226fca18c631f1c83
+"Influence of stakeholders’ practices on security management outcomes in public secondary schools in Mandera county, Kenya.pdf",2756,212,research,2022,text,,,False,False,False,,7b9d8f3761f5e6ad187f234b216230691b4dc68a56c178a85096e9a32e9ab485
+"Influence of stores’ management practices on service delivery in Elwak sub-county Referal hospital, Mandera county.pdf",1063,104,research,2024,text,,,False,False,False,,2d35b41d2125742d647a5f17e69cccd1f0d43e42e8ae2328da12a8709ad93145
+Influence of strategic agility on competitive advantage among the healthcare NGOS in Mandera County Kenya.pdf,1062,115,plan_other,2024,text,,,False,False,False,,50f09b51d16ab13637d2e946ca2a39c6af6c4f126dd3773ae53a3900bef280e7
+Interpeace - Voices of the People - Challenges to Peace in Mandera County (2017).pdf,1152,100,research,2017,filename,,,True,False,False,,27b169d4bceeaba50100cf93398b791c3be31de37b37909c98d0a08cd0e8ecec
+"Investigate the effects of conflict on education in primary schools of Mandera East Sub-County, Mandera County, Kenya..pdf",748,2,research,2015,manual,,,True,False,False,,314452bedd6accbd247d73816fedaddedd6bba3643837139e9fa7d1709614a8c
+Investigating factors leading to drop out among female students in secondary schools in Khalalio zone of Khalalio District in Mandera county.pdf,135,3,research,2014,text,,,False,False,False,,b3df32cfd7cdaec655d894fcfd98f02ec671570a0f42144578e563d212b7a75c
+JS_DOM_Group_Project.pdf,4,1,other,,,,,False,False,False,,31d9e1aeec73f5de33b981b4a9919174b407eb85f09cbb4fcaae992b56c87c05
+KFSSG 2015 Short Rains Assessment report.pdf,2782,45,drought_bulletin,2015,filename,,,False,False,False,,df9045359c233bd63c2bf9c4b01229bbce2b8905eecd987af59a2e3a359a8a0f
+KFSSG 2016 Long Rains Assessment executive summary.pdf,1219,11,drought_bulletin,2016,filename,,,False,False,False,,074959f96bed7e7addbf47f6d2757494401b1216858571749f13594fe19281a5
+KFSSG 2016 Long Rains Assessment national report.pdf,2991,47,drought_bulletin,2016,filename,,,False,False,False,,f3a6ce5f3ffcd3b5c05f5c79accb0bfc6437ffca55f6594b1328f2342b7ede63
+KMD seasonal forecast Mandera OND 2025.pdf,204,3,drought_bulletin,2025,filename,,,False,False,False,,d1d7c487268db4b776e70a37906373ee35ae18e0f608aa38c8a667ef36f076ed
+KNBS County Statistical Abstract 2015 Mandera.pdf,580,57,progress_report,2015,filename,,,True,False,False,,3102da7c1826d8e01b7f0d28f73ed0a42239b53cf68ab305e35e4e6ade44de83
+MANDERA PBB 20222023 (1) (id 462).pdf,2378,145,budget,2022/23,filename,,,False,False,False,,4cdf8d34a73c08c873b9514ce39270ae9c58efccc3c8a75a61199af793bd485f
+MCG CIDP.pdf,4439,412,cidp,2018-2022,text,,,True,False,False,,3278895771e55e749cb959a1cd1a0f62ffc3d351dd7f3e56246dad8da8db5036
+Mandera ACPA Report 2017-2018.pdf,1093,69,progress_report,2017/18,filename,,,False,False,False,,481d539974e7eb4eee5cd644bad94df974dff43ff17336e01bbde69b17cf44d0
+Mandera Central District Development Plan 2008-2012.pdf,41328,99,plan_other,2008-2012,filename,,,False,False,False,,8974873269f576a7f2f4fd3356573c9e9527a14821beee2b2a5a2d43c1b7ef63
+Mandera County Abattoirs Act 2014.pdf,231,19,law_policy,2014,filename,,,False,False,False,,0af12ea2bc39dff70518db2a5cc1930b0b7c1a4bb67db151cc30a874262c3ada
+Mandera County Annual Development Plan 2015-16.pdf,830,62,adp,2015/16,filename,,,False,False,False,,737d510d7f9ddfccb1086caf2a48ec36f0d0520ee7cd465d206e9cbfc45e56e5
+Mandera County Annual Development Plan 2015-2016.pdf,2154,91,adp,2015/16,filename,,,False,False,False,,94b96d97e9e5337703ad54e6031371cd2df7fe3781ede701a11780e0aab2e000
+Mandera County Annual Development Plan 2016-17.pdf,3037,257,adp,2016/17,filename,,,False,False,False,,4b59b9c323cabdb96581b594240c83b34f5170a7e26acb81fa4d819256924a77
+Mandera County Annual Development Plan 2017-18.pdf,1742,90,adp,2017/18,filename,,,False,False,False,,b50446316e56211fc3acb67d6b2d74f6c38603a848591363fb60b79abddf6629
+Mandera County Annual Development Plan 2018-2019.pdf,3355,137,adp,2018/19,filename,,,False,False,False,,37a120acbd6ca62f363b7160c23c0878d7bd298f8f97b5b9c3f93843b4f81089
+Mandera County Annual Development Plan 2019-20.pdf,2134,220,adp,2019/20,filename,,,False,False,False,,cdcd5cac212c51ccd73a744bf3c5fb9be83c0bfa73e094f4c7fcfc0645836f3d
+Mandera County Annual Development Plan 2020-21.pdf,2054,191,adp,2020/21,filename,,,False,False,False,,3519d3ac4689218b86762268d42b461680e7147a0eb9203c592afc0f1a1b013b
+Mandera County Annual Development Plan 2021-22.pdf,4297,222,adp,2021/22,filename,,,False,False,False,,61a4d6df1eef865aea7483ac4e845aa41eb4971f38744ee50a10c3a7a30fef6e
+Mandera County Annual Development Plan 2022-23.pdf,2965,287,adp,2022/23,filename,,,False,False,False,,9831aa52d9af0704e22a0e41ca039547f5f07e7950d646b831eb589ede504dfa
+Mandera County Annual Development Plan 2023-2024.pdf,4889,305,adp,2023/24,filename,,,False,False,False,,bad43382db9f6b6b0b0c28027890ff0c25f3d283f0ecaac43e4d0c31c5339555
+Mandera County Annual Development Plan 2024-2025.pdf,3911,195,adp,2024/25,filename,,,False,False,False,,f1db85d4f97d1f59dc2d14ee5be7d61bfa6d348101d5697ea5b9c65b6aba8285
+Mandera County Annual Development Plan 2025-2026.pdf,3332,249,adp,2025/26,filename,,,False,False,False,,6559ff48ec2a6c74108a11fd7460b8b6e02d6c260487fe0592a350fcc85a9c99
+Mandera County Annual Development plan 2022-2023.pdf,3982,291,adp,2022/23,filename,,,False,False,False,,4c37980e0694a67c3b85272c5dcc97fa36e485758f48bdb3d85e877116b75595
+Mandera County Annual Progress Report 2016.17.pdf,447,33,progress_report,2016/17,filename,,,False,False,False,,5ecdd0297ae1114d1785706d0a6a8aa5800470caac48c625e584dad4b9851bf7
+Mandera County Annual Progress Report 2017.18.pdf,1583,64,progress_report,2017/18,filename,,,False,False,False,,ec3e9b8e2a13a86784c41d729c17b5b317b86924b0e8fc452710fec7698baa2f
+Mandera County Annual Progress Report 2018-19.pdf,1011,64,progress_report,2018/19,filename,,,False,False,False,,921cc010d7e9e7a41c054bf2ee06b713536745a4e7f857cd549dd3db7f25380e
+Mandera County Annual Progress Report 2019-20.pdf,685,78,progress_report,2019/20,filename,,,False,False,False,,03c3a6cfaa1859d4985e9dcf06305ff16befd0b98991a8817a306760b2d1567b
+Mandera County Assembly – Audit Report 2013-2014.pdf,928,16,audit,2013/14,filename,,,False,False,False,,a89d532bdab79ae789e7170bb0d43f762ea896c62b342933dd086f27598f9ce9
+Mandera County Assembly – Audit Report 2014-2015.pdf,747,14,audit,2014/15,filename,,,True,False,False,,7d16dec7710408601592dd29e4c8a2eaf743945f2f4cabc43b7761ab82d179d3
+Mandera County Assembly – Audit Report 2015-2016.pdf,1545,28,audit,2015/16,filename,,,True,False,False,,fa83d810bf709d1fcdd50dad724fa622cb20469b5b1953b47a6dddcbfeef1b61
+Mandera County Assembly – Audit Report 2016-2017.pdf,1931,30,audit,2016/17,filename,,,True,False,False,,6a1ee1dedac875658cf54195b0f50684ecca766be40dca61165e222b6097a334
+Mandera County Assembly- Audit Report 2017-2018.pdf,3748,47,audit,2017/18,filename,,,True,False,False,,e9bba223342034633ee31615be27c0f01468988fb5c1fb9fd780a5d177738203
+Mandera County Assessment ACPA Report FINAL.pdf,1381,86,progress_report,2017,text,,,False,False,False,,7058eacd28d319de90deec060ce3ec5a6761aaf93ee20dfc76d0934ede3240ce
+Mandera County Budget Circular 2018.19.pdf,208,9,budget,2018/19,filename,,,False,False,False,,5cb5ca17c07743439946658a55b589737e93c4c776c209ca503b30da48856677
+Mandera County Budget Circular 2020.2021.pdf,263,7,budget,2020/21,filename,,,False,False,False,,49644a5145e8aae54bd7058001a3a51f4bc92b4db4f24b0cc0e59ca8b35a7b90
+Mandera County Budget Circular 2022.23.pdf,283,10,budget,2022/23,filename,,,False,False,False,,1a0c19a83ddb7fe0ecefbebfeb6dd04ac1f9e0df8a4549e2a7d1f967a952148a
+Mandera County Budget Review And Outlook Paper 2019.pdf,833,31,cbrop,2019,filename,,,False,False,False,,c06bcf89f19ae552373dfa454e2815c5c5157ba49b97ef54847244fb9c0e5ab9
+Mandera County Budget Review And Outlook Paper.pdf,1056,51,cbrop,2021,text,,,False,False,False,,726bdef097751403dd856fadae7134429c2979f02722227130f117b4ced214da
+Mandera County Budget Review and Outlook Paper 2018-19.pdf,383,25,cbrop,2018/19,filename,,,False,False,False,,1be631e17f97f2cd6761610f9f5acedcfb43aaf21575c4455d86e41de11ea910
+Mandera County Budget Review and Outlook Paper 2020-21.pdf,542,42,cbrop,2020/21,filename,,,False,False,False,,061e480e5f94b94f57d42f17c2e636a2c161f21d883b9f0b1fef9535458ac14f
+Mandera County Budget Review and Outlook Paper 2023.pdf,844,46,cbrop,2023,filename,,,False,False,False,,7fb61ed6c09c7c76e92350f39f50cd7142044a3ccd2aaabebb9e14898aff9a71
+Mandera County Budget Review and Outlook Paper 2025.pdf,1850,76,cbrop,2025,filename,,,False,False,False,,edc2dcd11fc924891464513c7c6150a54641a9d587f18a9311e32bd9360c10dc
+Mandera County Climate Change Adaptation Policy 2020.pdf,12029,23,law_policy,2020,filename,,,True,False,False,,4c280adef998a91ce24f14744f41b3d525e6dbbbb7c73dba8910de08f97d3639
+Mandera County Executive Audit Report 2013.14.pdf,537,16,audit,2013/14,filename,,,False,False,False,,88d4f8b789cb9326c59982bc2f746cd7e1abbc0c8605d6abc6a20ac8a949e1c2
+Mandera County Executive Audit Report 2014.15.pdf,5608,8,audit,2014/15,filename,,,True,False,False,,3f4eb22075f940fe582c2882aa4bb11c263e58af97636ba46577390095f8a09b
+Mandera County Executive Audit Report 2015.16.pdf,4861,55,audit,2015/16,filename,,,True,False,False,,99e7e820717040ed39b6025857c400448835c29c2e471574dd12cde75730b2a5
+Mandera County Executive Audit Report 2016.17.pdf,366,18,audit,2016/17,filename,,,False,False,False,,5a4887cc9076811582ba19600c0e8b46398ae5c7e0f069af86dd306befa21be7
+Mandera County Executive Audit Report 2017.18.pdf,5511,74,audit,2017/18,filename,,,True,False,False,,df1b7909cc1344c773d3835333a9c952f09751b21650fe19aca731053872ff1f
+Mandera County Executive Audit Report 2018.19.pdf,262,11,audit,2018/19,filename,,,False,False,False,,87d37c3ac2c6e039b66c4ac28418d4f58e64ad59624a19bb654037347fd9d7d9
+Mandera County Executive Audit Report 2019.20.pdf,437,11,audit,2019/20,filename,,,False,False,False,,680b61a476e3675c554d5448e844440e292eb5a2e342954036f3728b05b17274
+Mandera County Executive Audit Report 2020.21.pdf,38109,92,audit,2020/21,filename,,,True,False,False,,6bcc50a5998f36a0899ee88cb4ed847b08b5bb016a7ba1ec0cd541067d5f6362
+Mandera County Executive Audit Report 2021.22.pdf,537,17,audit,2021/22,filename,,,False,False,False,,e96d3a9a88804e6cb3b3c942ed5ebeca7562a5ae0a564f4c3de1cb76e44ac5b0
+Mandera County Finance Act 2013.pdf,1341,36,revenue,2013,filename,,,False,False,False,,8fbf57f63b68b8b65bb12385c9d4b5de0ed1bb47c62849d75a13a4a469a65324
+Mandera County Finance Act 2014.pdf,1522,37,revenue,2014,filename,,,False,False,False,,78703976dab74a2f5764c608b230919da90cf719c55739c8ff4bd463e7796fb9
+Mandera County Finance Act 2020.pdf,5676,12,revenue,2020,filename,,,True,False,False,,e9848576144a66cce85e48a59e2a9f7bc0852dad5ebe0699d25fe831df93faca
+Mandera County Finance Act 2025.pdf,1393,70,revenue,2025,filename,,,False,False,False,,63b485087baa51d0fbc129420a86e01501374dcd8c5dd91409228cf389a93b78
+Mandera County Fire & Rescue Act.pdf,157,12,law_policy,2014,text,,,False,False,False,,9b17d07ddaaf7c9609cf154eb0c5ca1cecdd4bb071a7941c1738a6ad6b31f8b1
+Mandera County Fiscal Strategy Paper 2017.pdf,525,29,fiscal_strategy,2017,filename,,,False,False,False,,60dc4267e7c7fd68b6f24576f1e1ae2c8a8d67d26570e2e696db687e50726534
+Mandera County Fiscal Strategy Paper 2019 (KIPPRA repository).pdf,353,34,fiscal_strategy,2019,filename,,,False,False,False,,18d3ce142665f3eacaab85c4bf308657182fb5c075054ddb4fe59040aa438d7d
+Mandera County Fiscal Strategy Paper 2019.pdf,425,34,fiscal_strategy,2019,filename,,,False,False,False,,5d6c3ebbe450105b205c3bc7d37870fc919a57beae3d7a1846ee88bd5009039a
+Mandera County Fiscal Strategy Paper 2020.pdf,737,42,fiscal_strategy,2020,filename,,,False,False,False,,1d236a47721dd1380956609d6249af2ffcf9d9e91a6019b84caa7a6e0bce0a9e
+Mandera County Fiscal Strategy Paper 2021-2.pdf,998,59,fiscal_strategy,2021,filename,,,False,False,False,,fbd057f9de7cbc5e7c22e4d17c45c92139fd13b0847121564a022bbe0a0a3a78
+Mandera County Fiscal Strategy Paper 2022-23.pdf,1152,44,fiscal_strategy,2022/23,filename,,,False,False,False,,34d4a0952c7a61380d99eb10111262c5a924df0803c9bce3276db81edd71b6a6
+Mandera County Fiscal Strategy Paper 2023.pdf,2141,78,fiscal_strategy,2023,filename,,,False,False,False,,b12fc58de17da26e41c1fa4fb5825bc90fdd6614d804d5265a07b1a68c194508
+Mandera County Fiscal Strategy Paper 2024.pdf,2168,92,fiscal_strategy,2024,filename,,,False,False,False,,893036075f353530eed3ab7181a932920958243cf94ee09b5863a921096a9bd5
+Mandera County Fiscal Strategy Paper 2025.pdf,2449,82,fiscal_strategy,2025,filename,,,False,False,False,,ead5ee71a7c502133439666c2d275b81a6affd6cdb2459a0426a8a75e75c6bef
+Mandera County Government Manual.pdf,12592,170,other,2018,text,,,False,False,False,,83a1c8a9b07bd34aed3fcf421cd4b7fd8f1f8d04e008098e97587977d1f24b19
+Mandera County Integrated Development Plan 2013-17.pdf,2704,533,cidp,2013-2017,filename,,,False,False,False,,4c3aac7781d14d8a77aeea039689fd0ab3d6d10b9da02fbed3507463f28825f3
+Mandera County Integrated Development Plan 2018 - 2022.pdf,6959,376,cidp,2018-2022,filename,,,True,False,False,,cb0e502a2561d93da7d3b0f6788d2d6430ab55d14ee9901b18372b9438403381
+Mandera County Integrated Development Plan 2023-27.pdf,13788,271,cidp,2023-2027,filename,,,True,False,False,,81ad1287db08b5a732a311894937c71c8d2536758b45e4491b35b841c37aaee4
+Mandera County Livestock Sales Yards Act.pdf,210,15,law_policy,2014,text,,,False,False,False,,4c3dec746d8e3897fd4cdf86adab4a1f408e9569eb6decb07eec1585bd28b229
+Mandera County Plant Health Act.pdf,178,14,law_policy,2015,text,,,False,False,False,,f02ce33cd7f61501da9a1a5515624ee26af99b3d14b9b45da3cae160b524cd99
+Mandera County Pre-Primary & ECD Act.pdf,240,19,law_policy,2014,text,,,False,False,False,,b3b7b399d62dc01c69b893cea9c1ae658c1e69797d13fee7ec275d547d0699f2
+Mandera County Programme Based Budget 2022-2023.pdf,3417,145,budget,2022/23,filename,,,False,False,False,,285bea9386f6ef5c112f5bce6b9d9ea8fc3d602e98fe706e5fb9c66f9e7dc071
+Mandera County Programme Based Budget 2024-2025.pdf,2329,109,budget,2024/25,filename,,,False,False,False,,34fc34bb2aeb84f60d9868ad94e22cdf49e77c8f14f2b8b5aff6b3272af47386
+Mandera County Programme Based Budget 2025-2026.pdf,2401,118,budget,2025/26,filename,,,False,False,False,,5a550521b9509baf2af1334c28f32366a04bf89163b639808a80eaa9b8a75eac
+Mandera County Public Works And Services Act.pdf,90,6,law_policy,2014,text,,,False,False,False,,3849a7220034e58af86fe946beb72781d27fb345ad365fd7c74789d41a6b7b78
+Mandera County Quarter 1 Budget Implementation Report 2018.19.pdf,607,14,budget_implementation,2018/19,filename,,,False,False,False,,57a0936e535868cd6001f9f1476e95026bb67c8c6665cf210606bca42a141600
+Mandera County Quarter 1 Budget Implementation Report 2021.22.pdf,955,21,budget_implementation,2021/22,filename,,,False,False,False,,c9f9b4b55f0e53a2240630894083273101f66fb21a9ea03121f9a9aeef764a48
+Mandera County Quarter 1 Budget Implementation Report 2022.23.pdf,840,20,budget_implementation,2022/23,filename,,,False,False,False,,1787f8e0818950491794c0ea0d17da07acd226cba64a84ae1898e57614c7bbc3
+Mandera County Quarter 2 Budget Implementation Report 2018.19.pdf,615,15,budget_implementation,2018/19,filename,,,False,False,False,,3d7841fc6d655c3b28fa7a124a4e43dfc06d0704bffdf197478688a5fc762ee9
+Mandera County Quarter 2 Budget Implementation Report 2019.20.pdf,684,15,budget_implementation,2019/20,filename,,,False,False,False,,94b3587575ed44293cb2e76410c8aa02ae32a4cf1393608577f5a4c3c60bd013
+Mandera County Quarter 2 Budget Implementation Report 2020.21.pdf,960,19,budget_implementation,2020/21,filename,,,False,False,False,,ee744076aff7533b33b16314adf54578e0518d49957a97e5c9f7d233074c8ec4
+Mandera County Quarter 2 Budget Implementation Report 2021.22.pdf,914,22,budget_implementation,2021/22,filename,,,False,False,False,,6e78c8915990e6b7f89302598f75994f2b34549dc14da1f450834a6dcd186e88
+Mandera County Quarter 3 Budget Implementation Report 2018.19.pdf,796,16,budget_implementation,2018/19,filename,,,False,False,False,,baa046ccede5db65efd31e98328de582eafc2d01f9f1390e9aa448ad52252a35
+Mandera County Quarter 3 Budget Implementation Report 2019.20.pdf,905,24,budget_implementation,2019/20,filename,,,False,False,False,,24c596d1427bdd1f16d83cd4c4a8f8abe14c6c9e403dbcc1d1afe5a77d60c83b
+Mandera County Quarter 3 Budget Implementation Report 2021.22.pdf,736,22,budget_implementation,2021/22,filename,,,False,False,False,,2b31f23880e970ab572f4d24b1c05a6be00ba95a726ee4cbacd1df7ae4eb63bb
+Mandera County Quarter 3 Budget Implementation Report 2022.23.pdf,719,20,budget_implementation,2022/23,filename,,,False,False,False,,5a3b29d2bc5d7b506e3eca21aedf0ae720de18ff8aab8658c954d94a8a86a8f3
+Mandera County Quarter 4 Budget Implementation Report 2018.19.pdf,923,18,budget_implementation,2018/19,filename,,,False,False,False,,c36fac59198ee81bf3267d9a2f4a297e83b7d5787504938d681c1cd2c23feb18
+Mandera County Quarter 4 Budget Implementation Report 2020.21.pdf,1272,34,budget_implementation,2020/21,filename,,,False,False,False,,3c3c90100de7a7686c3a96e57242ba299d76ab27b419241ee096a110787c0b73
+Mandera County Quarter 4 Budget Implementation Report 2021.22.pdf,561,27,budget_implementation,2021/22,filename,,,False,False,False,,95d19573a6a726b2047f292d6b306d12e88cb6b580e8f8b52e7ceb649171d6fe
+Mandera County Quarter 4 Budget Implementation Report 2022.23.pdf,812,23,budget_implementation,2022/23,filename,,,False,False,False,,6009c97dac69aa22d5e0bd7cbce53dd1cda56b2d3f609431bb8605d6604fea8b
+Mandera County Revenue Administration Act 2016.pdf,500,15,revenue,2016,filename,,,False,False,False,,0332eb7edc02d737886c440396331d009dfaa32084242cb4c7ed3c0af6ccb390
+Mandera County Supplementary Appropriation Act 2022.pdf,2238,5,budget,2022,filename,,,True,False,False,,9db143fbc4163e6a624ee02bd9acf2489dcb07e2213af4050daacb56ba72cab7
+Mandera County Supplementary Appropriation Act 2023.pdf,395,6,budget,2023,filename,,,False,False,False,,891d522772cff25224cffa6a26cd690f5c7da87817761dea84ef7155c3eadb00
+Mandera County Towns Act.pdf,433,35,law_policy,2014,text,,,False,False,False,,4174f6b628a60fbe29866f168735d05671c762c9593e362c74acfe6f961a17d7
+Mandera County Trade Development Fund Act 2014.pdf,771,22,law_policy,2014,filename,,,False,False,False,,1b9adb9a34f86fec564d7ad3bae9f96a6796f57d3610b8777b4b01ffc7a2d117
+Mandera DRAFT PBB FY 23.24 (id 296).pdf,2784,92,budget,2023/24,text,,,False,False,False,,b56f1fc6c8c8e24d48122b491afbf0ba388d1b920dab19c1b0012b9852e6c1f8
+Mandera District Development Plan 2002-2008.pdf,27193,64,plan_other,2002-2008,filename,,,False,False,False,,6c0fd466384e5ec8df50a31288ebf78cc2858d6739cb0dcc47864c5a788cb6e3
+Mandera East District Development Plan 2008-2012.pdf,51235,121,plan_other,2008-2012,filename,,,False,False,False,,13e10964948a0548fcfc670f1b00f161f4e1b7259b4a20c115681f33ea026db7
+Mandera Municipality plan 2026 (County Assembly).pdf,3922,98,plan_other,2026,filename,,,False,False,False,,105b0931c68c812fb081f69ee6a332ad1fcf7ee709efc3650e9e1a42f3990e97
+"Mandera Q1,Q2,Q3 Budget Implementation COMBINED April 2021.pdf",984,19,budget_implementation,2021,filename,,,False,False,False,,a5dedfaf80cc01e1ed933b48293da87d1079590b6ef743fb991fa5528ed70103
+Mandera SMART Survey 2019 documentation (KNBS).pdf,38,8,humanitarian,2019,filename,,,False,False,False,,7c8e2e6640192693d9fcea65f75c989f63b6ee5dcd99724c2edec484ec2b5fff
+Mandera SMART Survey 2021 documentation (KNBS).pdf,37,8,humanitarian,2021,filename,,,False,False,False,,c4cd0c314111a2192a61a88dfc3655d4b8e37eb31f999e6d169660ff8eee4bf6
+Mandera SMART Survey 2023 documentation (KNBS).pdf,38,8,humanitarian,2023,filename,,,False,False,False,,365f9eb4f0a46d4a05003daf777792ec3e1629d00c6674260b58d76ec88f03ad
+Mandera Town ISUDP 2015-2035.pdf,2433,39,plan_other,2015-2035,manual,,,False,False,False,,91d95daabfaad1cfc7cc1b0b7c001a78617a7e9b8cdaea242b7a6d34209b3078
+Mandera-CADP-2025-2026.pdf,3430,272,progress_report,2025/26,filename,,,False,False,False,,661dabc458666227058bf7ee8e26893b53001a54f0cbff21678d006be220bb34
+Medium Term Debt Management Strategy Paper 2024.pdf,6674,20,plan_other,2024,filename,,,True,False,False,,0fe0108c60c0f819150a5f0023d1c817eb2b6de7e6a82473232f45d469cc0eb4
+OCHA inter-communal conflict in Mandera sitrep 1 (2013).pdf,186,4,humanitarian,2013,filename,,,False,False,False,,d0bae65dda28f39ce6402e6b979466449d2402d55a9ab2e0c21195c344b3eb9b
+OSR Internal Audit Report 2023-2024.pdf,1787,7,audit,2023/24,filename,,,True,False,False,,0831f40649a55fed452cdad47cc3e6759abdd11c35fb1be80fe1a410d62d50e6
+OSR Internal Audit Report 2024-2025.pdf,2150,8,audit,2024/25,filename,,,True,False,False,,c5a0709422008279d221c7a3b8d3d0d570b8b29008e71cbc862bf42672548c37
+OSR Internal Audit Report 2025-2026.pdf,2501,10,audit,2025/26,filename,,,True,False,False,,979f42cd11d5089305ed186afc67e839a6f08fdb8d89f9cdc9f50443bb52ebe7
+OWN SOURCE REVENUE (OSR) MAPPING REPORT.pdf,3008,94,revenue,2026,text,,,True,False,False,,c4504d4426720aa804da26737c36645636fe4fb6143f07a5186cd514bb627459
+Organizational Structure.pdf,650,2,other,,,,,True,False,False,,d93f4f37ccccc854880c1f3b73c4a6dcc2269677d7f0ab0a3a4378d1ce5ecd98
+PB Reconciliation Against Requisition Schedule and CBK Statement.pdf,6037,5,progress_report,2024/25,manual,,,True,False,False,,ff4afbdc81646ebef9aa540f434514f85bc0096d3339bce99c3899dcf7de0db7
+"PUBLIC PARTICIPATION REPORT FOR THE COUNTY TRADE LICENSING BILL, 2025.pdf",1407,12,law_policy,2025,filename,,,False,False,False,,09752dfc6db3936ae4929b8b82c7c3cf2bacf88f1e2fb22b8cf4f8382373eeb4
+PUBLIC PARTICIPATION REPORT ON COUNTY ANNUAL DEVELOPMENT PLAN 2027-2028.pdf,2762,20,adp,2027/28,filename,,,False,False,False,,d1292fb7810cc955cae780a43ae863db36dd4ed895880f0c12c53b20877723d5
+"PUBLIC PARTICIPATION REPORT ON THE MANDERA COUNTY CESS BILL, 2025.pdf",1117,10,law_policy,2025,filename,,,False,False,False,,32eaee13bfbb36b6fd3348847b804bf3b44a4521768b9152058a39af5ef5e5ab
+"PUBLIC PARTICIPATION REPORT ON THE MANDERA COUNTY RATING BILL, 2025.pdf",2686,11,law_policy,2025,filename,,,False,False,False,,ddaf96e9e057bb52daee740fa58894e28d3ea854b58e0eaf173264522be19c3e
+"Participation of students in educational Activities in day secondary schools in Mandera East district, Kenya.pdf",77,2,research,2013,text,,,False,False,False,,27830474079af897356cc6d8570d0588668c673d2d74f0426a3ba6d9cec8a840
+Participatory Climate Risk Assessment report.pdf,6888,89,research,2023,manual,,,True,False,False,,96c3c5eb6fc3d47a4eb6ddcedde627e1a70a8b14aef92dfc49df2a505c602114
+Pending Bill Verification Committee Report.pdf,7644,48,progress_report,2024/25,manual,,,True,False,False,,7934f889916802518e8809b3bc6e7c307f1bc69845d666b69731021fd795a0a9
+Policy Brief No. 24 of 2019-2020 on MSE Business Environment in Mandera County.pdf,216,4,law_policy,2019/20,filename,,,False,False,False,,08e412c6696db2b2b5a41b7e6a4ce751e5380f61536f5775e541c6e988ab43d0
+Policy Brief No. 24 of 2021-2022 on MSEs’ Business Environment in Mandera County.pdf,493,4,law_policy,2021/22,filename,,,False,False,False,,a3b2e846a72e144b4658b2630da16805c4abb17cad6c9a2237b35f82d5925ea4
+Policy Brief No. 40-2024-2025 on Micro and Small Enterprises Business Environment in Mandera County.pdf,435,6,law_policy,2024/25,filename,,,False,False,False,,788c4418733321e7da4f4c5e1e19609d09b60443d15ebeadf624eae60c8175a8
+"Policy Brief No. 61 of 2019-2020 on Children, Youth and Women Sensitive Planning and Budgeting in Kenya- Mandera County Brief, 2014-15-2017-.pdf",1578,12,budget,2019/20,filename,,,False,False,False,,46ba5e7776461c4d149494e0109ca67d2f5331bfd975736457090f5f4ae12c1a
+Policy Brief No. 71 of 2021-2022 Public Affairs Index for Mandera County.pdf,674,8,law_policy,2021/22,filename,,,False,False,False,,3f29399bd2f47ea0be6427b2e1b33cb89e78120e3fea6cb1f062bea953165e57
+Policy Brief No. 74 of 2023-2024 on Assessing Labour Productivity for Mandera County.pdf,979,23,law_policy,2023/24,filename,,,False,False,False,,318637d73dc1ea7abbdedd76a0ffb5470061b0fceb92d9606140dfb052d0c396
+Policy Brief on Budgets for Impact- Tackling Child Poverty for Social Progress in Mandera County.pdf,1069,24,budget,2019/20,text,,,False,False,False,,c9493b8c155fd3065994d2a44c4ec7460dd01faf22563fa0e35a1b1038346a93
+Public Participation Report on County Budget Estimate FY 2025-2026.pdf,1848,22,budget,2025/26,filename,,,False,False,False,,6246963b4af4039eda7e51aa1223128b9432039a0aac0c036a7d97fcde8007ff
+Quarter 1 Budget Implementation Report FY 2023.2024.pdf,2163,24,budget_implementation,2023/24,filename,,,False,False,False,,8c65cd96ba08d1f49fd7c059b15bd8eff30462b22a4d5ce5db05c53106a24b52
+Quarter 1 Budget Report FY 2024-2025.pdf,1026,30,budget_implementation,2024/25,filename,,,False,False,False,,d2f1f5e9379d5acc6fcbe1938c2672b1b3ec3ec4b38c961d4767edd8f41ada27
+Quarter 1 Budget Report FY 2025.2026.pdf,1648,1,budget_implementation,2025/26,filename,,,True,False,False,,0f33eb65374ed17f915042ab46993437141e19afde1bd863823adf71901c60f2
+Quarter 2 Budget Implementation Report FY 2023.2024.pdf,1789,27,budget_implementation,2023/24,filename,,,False,False,False,,a58f4d82460cce51058f6e4b4101659a7e6ee137966c04c5dbfb57dacfc4b8c6
+Quarter 2 Budget Report FY 2024-2025.pdf,452,1,budget_implementation,2024/25,filename,,,True,False,False,,be586d23a8a2b2ebd40dfefec632df132d478446ff249d733a4630d7fd252abb
+Quarter 2 Budget Report FY 2025.2026.pdf,1184,1,budget_implementation,2025/26,filename,,,True,False,False,,bc27187402ed24d0813a58e88e2024fb86d73cceb1d5ee5ae999a0777eb604e7
+Quarter 3 Budget Implementation Report FY 2023.2024.pdf,2095,25,budget_implementation,2023/24,filename,,,False,False,False,,66f864074466437538651d32dfa2bacefd844d65f75f94ddecc9e905246e8198
+Quarter 3 Budget Report FY 2024-2025.pdf,1044,33,budget_implementation,2024/25,filename,,,False,False,False,,76043b5dc6eccd6f5339c17362e5197714ef492266db85d7e0f1c50c2e1ada1b
+Quarter 4 Budget Implementation Report FY 2023.2024 FINAL.pdf,1809,29,budget_implementation,2023/24,filename,,,False,False,False,,907305583cd7bf10a449737e5b2e447c25b8ea75b0cdf1886bf05803f37631f8
+Quarter 4 Budget Implementation Report FY 2024-2025.pdf,1135,31,budget_implementation,2024/25,filename,,,False,False,False,,6f6c1aafa53cbbf5c37449b5e7eca1ed76508f4a7618e3c3453bf4be64767f37
+Quarter Four Budget Implementation Report FY 2025.2026.pdf,756,26,budget_implementation,2025/26,filename,,,False,False,False,,dd961db062d8a60882a2372591d6bbb2e84625dbe2a4472eb7c5c6bb88f5b0e2
+REACH MSNA Mandera situation overview June 2023.pdf,1788,11,humanitarian,2023,filename,,,False,False,False,,671ad603ae3d53999cc6807c7f2f3b4ccd96f32da4155bff47ec2d05bc07439e
+REACH MSNA host communities factsheet June 2025.pdf,904,7,humanitarian,2025,filename,,,False,False,False,,d370b7854e9fa3d494855d62fdca1fc0742a096f8d0d98103a9c49bdeb8e0e56
+REACH MSNI bulletin June 2023.pdf,2651,7,humanitarian,2023,filename,,,False,False,False,,c16e000ad1760f67679be6502ca7f9945fd32cd2c3d9f65492a9b58f4f1be101
+REVENUE MOBILISATION STRATEGIC PLAN.pdf,3802,76,revenue,2025/26,text,,,True,False,False,,718ac032d2c73012e8601c1f55cabc93b6a143558199fe0a80211f285c77f0ee
+REVISED DEVELOPMENT EXPENDITURE ESTIMATES 2017-2018.pdf,106,9,budget,2017/18,filename,,,False,False,False,,71276df8e3e514f32625d9845484acc8f58c8337f1e74c47f4628b82be0f1f01
+REVISED RECURRENT EXPENDITURE ESTIMATES 2017-2018.pdf,173,26,budget,2017/18,filename,,,False,False,False,,84c7e2575789ac6e174126e6ad36298096aef44f7a0429a2e5352948157ab14e
+Relationship between Teachers’ Involvement in Decision-Making and Their Job Satisfaction in Public Secondary Schools in Mandera North Sub-Co.pdf,199,7,research,2024,text,,,False,False,False,,bc2765291b5aab72037e0ed43dd6b98a3f6635a146e7e009239d48fdbc9e6cdd
+"Report of The Auditor General on ROR FY Ended 30th June, 2024.pdf",13907,56,audit,2024,filename,,,True,False,False,,9b4a07a19c85ffacdf34e6ae3e9d74a5d28efe94172123535599d1f4c5ea38be
+Revenue Performance for FY 2023-2024.pdf,892,1,revenue,2023/24,filename,,,True,False,False,,0fbddc2672e6f4493dd3335467395239ee630c71bec91b1bb3fb3465b589bef0
+Revenue Performance for FY 2024-2025.pdf,965,1,revenue,2024/25,filename,,,True,False,False,,cc8fd90281ba26810d08b0976a65c6d14d4c9836849b5f922bf4b279f24786d0
+STAFF ESTABLISHMENT AND ORGANIZATIONAL STRUCTURE.pdf,55801,104,other,2025,manual,,,True,False,False,,eb97ce64e6fac53b0673cc5f48468242deac11494840834cffe17d256b3045df
+"School management style on the performance of secondary Schools in Mandera east district, Mandera county, Kenya.pdf",31,3,research,2014,text,,,False,False,False,,9fbc36649f3fb1675db3513737829b14465f6e9b7ef212f0e04899222db205d5
+"Senate - Security situation in Mandera, Laikipia, Kapedo and Baringo 2015.pdf",85189,70,other,2015,filename,,,False,False,False,,73db5f8a8220b4e391e5bdbb5ab44f355317b418105e09484157f5281410a638
+Social accoutability and performance of devolved governments.A caseof Mandera County Government.pdf,599,2,research,2015,manual,,,True,False,False,,81a3b863d5e787329f7c529910dfbb77d3d0ddc3128c04f4426bfe4d95c865e8
+"Socio-Economic Challenges Facing Pupil's Academic Performance inBanisa Zone, Mandera West District, Mandera County.pdf",518,2,research,2012,manual,,,True,False,False,,f831878367cad94e7e9a6a4c0598f86c3d984dc827492e7038f8cd79897e9f8b
+"Socio-economic challenges facing pupil's academic performance in Banisa zone,Mandera West district,Mandera county..pdf",266,2,research,2012,manual,,"Socio-Economic Challenges Facing Pupil's Academic Performance inBanisa Zone, Mandera West District, Mandera County.pdf",True,False,False,,c46382639b0d6752aec9e840f1dcbc2ef905d70f1053b2c0807e852581977c53
+Socioeconomic status of Mandera County with COVID-19.pdf,1449,119,research,2022,manual,,,False,False,False,,e019214fbea993003d94440ce6520f7a56b8db8fd881ecdedd032b2c4723ba56
+Summary of Pending Bills as at 30th June 2025.pdf,807,1,progress_report,2025,filename,,,True,False,False,,252adb28f1bcceb10620260a0e5e943930749f48eb2b4aa17d4571c8e348ca93
+Supplementary Appropriation Act 2018.pdf,263,5,budget,2018,filename,,,False,False,False,,a75e7af904b416df7eb504552afecea127ef01cf2b5f2ebffadf13e6e95b323c
+Supplementary Appropriation Act 2019.pdf,270,5,budget,2019,filename,,,False,False,False,,a72e3023351cfddfa7d4e5a9b072489e2059664f73fa5a363f8c0bfcee8986dc
+TARIFFS AND PRICING POLICY.pdf,1360,36,law_policy,2026,text,,,True,False,False,,32fc262e9b251e55d6c84a3d0a7e6eb30afc07a43dd67e3d4a96dba953aa912b
+"THE MANDERA COUNTY TRADE DEVELOPMENT FUND REGULATION, 2019.pdf",207,4,law_policy,2019,filename,,,False,False,False,,235668012dfee4685b6736d4259ff2f803afbe856ba88634753d924951cdeebb
+THE MWANANCHI GUIDE – BUDGET FY 2020-21.pdf,8185,12,budget,2020/21,filename,,,False,False,False,,cb1c5d7f213b20a9dc98cf8d1fe9f079802311c8a673a869abf7e4c46b455e72
+The Effects of Procurement Planning Procesess on Service Delivery-A study of Mandera County.pdf,557,2,research,2016,manual,,,True,False,False,,35b4d139352150656a06b27d48ec55349af35def61bca49b36e552078fc6a467
+The Power of Stakeholders’ Security Plan Implementation in Security Management Outcomes- Lessons from Public Secondary schools in Mandera Co.pdf,346,15,plan_other,2023,text,,,False,False,False,,4b5678a49504b272862031a11c3fed0477155d81e4ccaa833f0528f97acbca77
+"The Role Of Motivation On Teachers' Performance In Secondary Schools; A Case Study Of Mandera West District(North Eastern Province, Kenya.).pdf",556,2,research,2012,manual,,,True,False,False,,8f6f8ca804f8f7107a09d97ef94c9a56e87e7f3bf120080c1ad3fdabe407ab54
+The causes of poor performance in Kiswahili subject in Mandera among students in public secondary schools- A case of Mandera east district i.pdf,549,2,research,,,,,True,False,False,,4b8e0fb2e147415fc105486bebbd734d0465d4cd42dbc30841b35b9b73a8453d
+The effect of drug abuse on secondary schools performance in Mandera South Sub county in Mandera county.pdf,7,2,research,2013,text,,,False,False,False,,3e38d91276369e58e05b10a5997fd39635f06ce9ed8765491a12c0c88249910a
+The effectiveness of financial management reforms on the success of accountable governance in Kenya- the case of Mandera County.pdf,541,2,research,2015,manual,,,True,False,False,,22a666885d7d9b7a4cbb150f0d5e1a08f11bf4378342d590807040970c128998
+The effects of contractual requirements on financial perforance of mandera county government head office project.pdf,2584,115,research,2024,text,,,False,False,False,,7a1ebcaa0721a6c7b15d004f5e1cee5f1da32963684803d87b3553e0b9450de9
+The effects of contractual requirements on financial performance of Mandera county goverment head office project.pdf,2971,115,research,2024,text,,,False,False,False,,83a06a9f03552ced345b784aa038d7707c2f26c4ebe744ce8ec0bb195dccda1e
+"The effects of poor perfomance in primary schools (a case study of Mandera county, Kenya.).pdf",27,2,research,2014,text,,,False,False,False,,8f58c996d68e30d9edb090145856239b64475bbc6b75231c85e4d808b90e533c
+The effects of the alternative disciplinary measures on students discipline as opposed to corporal punishment in secondary schools in Kenya-.pdf,553,2,research,2015,manual,,,True,False,False,,6b91ae8b4c11f1d7a54199757e54848509e5a54bf79a27dc09348c1cf79f5bb9
+"The persistence of FGM and its impact on women access to education and empowerment- a case study of Mandera, North Eastern region Mandera co.pdf",1085,3,research,2016,manual,,,True,False,False,,defddd242afd3f4cab38215de006b97d479965aab97dc21efa5db49e7902f21f
+The role of guidance and counseling in secondary schools in Mandera County.pdf,676,2,research,2012,manual,,,True,False,False,,60e5befc962d989192d244045d28057ec6c5a0efa2c7450cd2f4ea948321450d
+The role of guidance and counselling in secondary schools in Mandera County..pdf,637,2,research,2012,manual,,,True,False,False,,d1879ebf1b0b4c917ed3071e0ade9b4e0848f5bd6a089cfe32fe007f06ae3a76
+The role of guidance and counselling in secondary schools in Mandera county.pdf,674,2,research,2012,manual,,The role of guidance and counselling in secondary schools in Mandera County..pdf,True,False,False,,ddfd2401091c050fa102072c3b94bc3e798b4024bce5ad9c1b3b70496e3487b3
+The role of motivation on teachers' performance in secondary schools-A case study of mandera west district.North eastern province of Kenya..pdf,493,2,research,2012,manual,,,True,False,False,,a29b085d269c2237c798bc1df7ad58bdbca3500b97454af5778ded1507abdc6b
+The role of water sector reforms in enhancing socio economic development-the case of Mandera county.pdf,543,2,research,2015,manual,,,True,False,False,,738a1213ccb624bb6d59abe0cd75cbe1e04e79e19536b41b7b367e826af9c30e
+The role of water sector reforms in enhancing socio-economic development the case of mandera county.pdf,665,2,research,2015,manual,,The role of water sector reforms in enhancing socio economic development-the case of Mandera county.pdf,True,False,False,,5b4f7baffa1fcecf49572d12e2baefc20fdc80d4363643ddd43f10f0a7396454
+UNDP - Dynamics and Trends of Conflict in Greater Mandera (2010).pdf,820,48,research,2010,filename,,,False,False,False,,5fc4774e900f7aca32b2ab441ad737f779aba335f5f613922ba6b1ce6a178954
+UNICEF Kenya humanitarian sitrep January 2018.pdf,1528,6,humanitarian,2018,filename,,,False,False,False,,665aa846c1c1997bcf78963f09d3598c7d7e3013be06bb135189fc733ddbd93d
+bgt-0.22473900 1715674647jDAnPMZqUl (id 568).pdf,4026,186,budget,2021/22,text,,,False,False,False,,92d4b0108985397ae741373bab2adce2c125dba57088d2bc848670d2b4547fc8
