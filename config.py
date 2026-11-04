@@ -1,4 +1,4 @@
-# config.py: settings for Mandera_Agent (LlamaIndex). Override any value in .env.
+# config.py: settings for Mandera-CountyLens (LlamaIndex). Override any value in .env.
 import os
 from dotenv import load_dotenv
 from llama_index.core import Settings

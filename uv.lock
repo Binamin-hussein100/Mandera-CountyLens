@@ -1241,7 +1241,7 @@ wheels = [
 ]
 
 [[package]]
-name = "mandera-agent"
+name = "mandera-countylens"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

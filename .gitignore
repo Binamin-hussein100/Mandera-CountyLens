@@ -179,3 +179,12 @@ pyrightconfig.json
 steps.txt
 CLAUDE.md
 claude.md
+
+# Project data — never commit
+corpus/
+corpus_pilot/
+chroma_db/
+*.pdf
+corpus/
+corpus_pilot/
+chroma_db/
