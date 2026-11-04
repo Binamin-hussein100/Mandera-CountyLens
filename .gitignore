@@ -185,6 +185,3 @@ corpus/
 corpus_pilot/
 chroma_db/
 *.pdf
-corpus/
-corpus_pilot/
-chroma_db/
