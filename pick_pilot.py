@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-CORPUS_DIR = Path(os.getenv("CORPUS_DIR") or "corpus").expanduser()
+RAW_DIR = Path(os.getenv("RAW_DIR") or "raw").expanduser()
 PILOT_DIR = Path(os.getenv("PILOT_DIR") or "corpus_pilot")
 INVENTORY = "inventory.csv"
 PILOT_LIST = "pilot.csv"
@@ -104,7 +104,7 @@ def main():
     PILOT_DIR.mkdir(exist_ok=True)
     copied = 0
     for r in selection:
-        src, dst = CORPUS_DIR / r["file"], PILOT_DIR / Path(r["file"]).name
+        src, dst = RAW_DIR / r["file"], PILOT_DIR / Path(r["file"]).name
         if dst.exists() and dst.stat().st_size == src.stat().st_size:
             continue
         shutil.copy2(src, dst)

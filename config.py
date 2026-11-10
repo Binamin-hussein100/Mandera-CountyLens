@@ -12,7 +12,8 @@ def _int(name, default): return int(os.getenv(name) or default)
 
 
 # Paths
-CORPUS_DIR   = _str("CORPUS_DIR", "corpus")
+RAW_DIR      = _str("RAW_DIR", "raw")        # original downloads, never changed
+CORPUS_DIR   = _str("CORPUS_DIR", "corpus")  # text PDFs selected by build_corpus.py
 PILOT_DIR    = _str("PILOT_DIR", "corpus_pilot")
 CHROMA_DIR   = _str("CHROMA_DIR", "chroma_db")
 COLLECTION   = _str("COLLECTION", "mandera")
