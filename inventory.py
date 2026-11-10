@@ -1,6 +1,6 @@
 # inventory.py: list every PDF in the corpus with its type, year and health flags.
 # Read-only: it never changes, moves or deletes the PDFs.
-# Usage: uv run python inventory.py [corpus_dir]   (default: CORPUS_DIR from .env)
+# Usage: uv run python inventory.py [corpus_dir]   (default: RAW_DIR from .env)
 import csv
 import hashlib
 import logging
@@ -106,7 +106,7 @@ def inspect(path):
 
 
 def main():
-    corpus = Path(sys.argv[1] if len(sys.argv) > 1 else os.getenv("CORPUS_DIR") or "corpus").expanduser()
+    corpus = Path(sys.argv[1] if len(sys.argv) > 1 else os.getenv("RAW_DIR") or "raw").expanduser()
     if not corpus.is_dir():
         sys.exit(f"Corpus folder not found: {corpus}")
 

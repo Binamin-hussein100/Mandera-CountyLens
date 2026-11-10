@@ -1,5 +1,6 @@
 # query.py: answer a question from the Chroma index, with page-level citations.
 # Usage: uv run python query.py "How much was allocated to health in FY 2022/23?"
+#        uv run python query.py --pilot "..."   (ask the 50-PDF pilot index instead)
 import re
 import sys
 
@@ -30,10 +31,11 @@ TYPE_NAMES = {
 }
 
 
-def open_index():
-    """Open the existing Chroma collection built by ingest.py (no re-embedding)."""
+def open_index(collection=config.COLLECTION):
+    """Open an existing Chroma collection built by ingest.py (no re-embedding).
+    "mandera" is the full corpus, "mandera_pilot" the 50-PDF pilot."""
     client = chromadb.PersistentClient(path=config.CHROMA_DIR)
-    store = ChromaVectorStore(chroma_collection=client.get_collection(config.COLLECTION))
+    store = ChromaVectorStore(chroma_collection=client.get_collection(collection))
     return VectorStoreIndex.from_vector_store(store)
 
 
@@ -68,10 +70,12 @@ def cited(text):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        sys.exit('Usage: uv run python query.py "your question"')
+    args = [a for a in sys.argv[1:] if a != "--pilot"]
+    if not args:
+        sys.exit('Usage: uv run python query.py [--pilot] "your question"')
     config.configure()
-    text, sources = answer(" ".join(sys.argv[1:]), open_index())
+    collection = f"{config.COLLECTION}_pilot" if "--pilot" in sys.argv else config.COLLECTION
+    text, sources = answer(" ".join(args), open_index(collection))
     print(text, "\n\nRetrieved:")
     for s in sources:
         mark = "*" if s["n"] in cited(text) else " "
